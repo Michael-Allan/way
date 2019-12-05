@@ -1,0 +1,48 @@
+Definition of moral terms
+
+    form F
+        ─ mass noun
+            - Promotion of a maximum, universal sum of personal freedom.
+    form G
+        ─ mass noun
+            - Relation of the personal to the endmost goal of the person.
+    human rights
+        ─ plural noun
+            : join @ `^^rights$`
+                / *All* things have these rights.
+    right
+        ─ adjective
+            - Having the forms G and F, and not thereby being wrong.
+        ─ count noun
+            - A moral entitlement, one of *right to G* or *right to F*.
+        ─ mass noun
+            - That which is right.
+                : re `right` see `^^─ adjective$` @ `^^right$`
+    rightful
+        ─ adjective
+            - Morally entitled according to a right.
+    rights
+        ─ plural noun
+            : see `^^─ count noun$` @ `^^right$`
+    right to F
+        ─ noun
+            - A moral entitlement to promote a maximum, universal sum of personal freedom
+              while thereby infringing no right.
+    right to G
+        ─ noun
+            - A moral entitlement to relate the personal to the endmost goal of the person
+              while thereby infringing no right.
+    wrong
+        ─ adjective
+            - Countering a form G or F that is not itself wrong.
+        ─ noun
+            - A thing which is wrong.
+                : re `wrong` see `^^─ adjective$` @ `^^wrong$`
+    wrongful
+        ─ adjective
+            : join @ `^^wrong$`
+
+
+\ This file has been dedicated by Michael Allan to the public domain.  To the extent possible by law,
+\ Michael Allan has waived all copyright and related or neighbouring rights to this file under the terms
+\ of a CC0 1.0 waiver.  https://creativecommons.org/publicdomain/zero/1.0/
