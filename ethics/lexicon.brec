@@ -3,9 +3,11 @@ Definition of moral terms
     form F
         ─ mass noun
             - Promotion of a maximum, universal sum of personal freedom.
+                : see http://reluk.ca/project/proto-waycast/moral_forms.xht#F
     form G
         ─ mass noun
             - Relation of the personal to the endmost goal of the person.
+                : see http://reluk.ca/project/proto-waycast/moral_forms.xht#G
     human rights
         ─ plural noun
             : join @ `^^rights$`
@@ -13,8 +15,10 @@ Definition of moral terms
     right
         ─ adjective
             - Having the forms G and F, and not thereby being wrong.
+                : see http://reluk.ca/project/proto-waycast/normative_ethic.xht#ethic
         ─ count noun
             - A moral entitlement, one of *right to G* or *right to F*.
+                : see http://reluk.ca/project/proto-waycast/normative_ethic.xht#rights
         ─ mass noun
             - That which is right.
                 : re `right` see `^^─ adjective$` @ `^^right$`
@@ -28,13 +32,16 @@ Definition of moral terms
         ─ noun
             - A moral entitlement to promote a maximum, universal sum of personal freedom
               while thereby infringing no right.
+                : see http://reluk.ca/project/proto-waycast/normative_ethic.xht#right_to_F
     right to G
         ─ noun
             - A moral entitlement to relate the personal to the endmost goal of the person
               while thereby infringing no right.
+                : see http://reluk.ca/project/proto-waycast/normative_ethic.xht#right_to_G
     wrong
         ─ adjective
             - Countering a form G or F that is not itself wrong.
+                : see http://reluk.ca/project/proto-waycast/normative_ethic.xht#ethic
         ─ noun
             - A thing which is wrong.
                 : re `wrong` see `^^─ adjective$` @ `^^wrong$`
