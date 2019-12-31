@@ -3,11 +3,153 @@ Wayic architectonic
     - The fundamental, logically necessary structure of the wayic according to its essential purpose,
       abstracting from all technical options and other variables.
         : join `logically necessary structure` @ `^^architectonic$` @ lexicon.brec
+        / Herein I allow structural abstraction; structure defined in terms not of its form,
+          but of its function, provided that function is necessary to the purpose.
 
-    cast+
-        : see http://reluk.ca/project/proto-wayic/architec/doc.task
-        : see http://reluk.ca/project/proto-waycast/wayic.xht
-        : join purpose.brec
+    ──────────
+     personal
+    ┈┈┈┈┈┈┈┈┈┈
+        U. Personally useful.
+            : join
+
+        G. Relating the personal to the endmost goal of the person.
+            : join
+        Gi. Affording formation by the user of the user’s way. \ ‘i’, inward facing
+            : join
+        Go. Affording declaration by the user of the user’s way. \ ‘o’, outward facing
+            : join
+
+    ────────
+     social
+    ┈┈┈┈┈┈┈┈
+        X. Extending throughout society.
+            : join
+
+        H. Holding in society.
+            : join
+        Fa. Alterable in crucial functions by copy and change.
+            : join
+        Fi. Interoperable to altered copies in crucial functions.
+            : join
+
+    ──────────
+     rightful
+    ┈┈┈┈┈┈┈┈┈┈
+        G. Relating the personal to the endmost goal of the person.
+            : join
+
+        R. Infringing no right.
+            : join
+        Rg. Infringing no rightful relation of the personal to the endmost goal of the person.
+            : join
+        Rf. Infringing no rightful promotion of a maximum, universal sum of personal freedom.
+            : join
+
+
+
+    ━━━━━  L o g i c   o f   s t r u c t u r a l   n e c e s s i t y  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+    ━━━━━━━━━━
+     Personal
+    ──────────
+        U. Personally useful.
+            ∵ U inheres in P.
+
+
+        G. Relating the personal to the endmost goal of the person.
+            ∵ G inheres in P.
+                ∵ Essential to P is the concept of a personal service relating to one’s way.
+                ∵ Essential to one’s way is a goal, especially a final or endmost goal.
+                    : see http://reluk.ca/project/proto-wayic/way
+        Gi. Affording formation by the user of the user’s way.
+            ∵ Gi inheres in P.
+        Go. Affording declaration by the user of the user’s way.
+            ∵ The publication of users’ ways is a condition of Fx.
+                ∵ Not seeing what others do with the system would hinder its adoption by non-users.
+                    ∵ Nothing equals the efficiency of copying.
+                !! Fx has been removed to architecture as non-essential.
+
+
+
+    ━━━━━━━━
+     Social
+    ────────
+        X. Extending throughout society.
+            ∵ X inheres in P.
+
+
+        H. Holding in society.
+            ∵ H inheres in P.
+        Fa. Alterable in crucial functions by copy and change.
+            ∵ Omitting Fa would risk infringing a right.
+                : join `^^• Omitting Fa or Fi would risk infringing a right.$`
+            ∵ No right is contravened.
+                ∵ R.
+        Fi. Interoperable to altered copies in crucial functions.
+            - Operational data are visible to any crucial function of an altered copy
+              that depends on them.
+            ∵ Omitting Fi would risk infringing a right.
+                : join `^^• Omitting Fa or Fi would risk infringing a right.$`
+            ∵ No right is contravened.
+                ∵ R.
+
+
+
+    ━━━━━━━━━━
+     Rightful
+    ──────────
+        G. Relating the personal to the endmost goal of the person.
+            : join @ `^^ Personal$`
+
+
+        R. Infringing no right.
+            ∵ P asserts rightful action, which implies R.
+        Rf. Infringing no rightful promotion of a maximum, universal sum of personal freedom.
+            ∵ Rightful promotion of a maximum, universal sum of personal freedom is a right.
+                : see right#right_to_F
+            ∵ No right is contravened.
+                ∵ R.
+        Rg. Infringing no rightful relation of the personal to the endmost goal of the person.
+            ∵ Rightful relation of the personal to the endmost goal of the person is a right.
+                : see right#right_to_G
+            ∵ No right is contravened.
+                ∵ R.
+
+
+
+    ┈┈┈┈┈  p r e m i s e  ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+
+
+    • Omitting Fa or Fi would risk infringing a right.
+        ∵ Omitting Fa or Fi would allow the development of a personal service monopoly.
+            ∵ The system provides a personal service.
+                ∵ U.
+            ∵ The system is socially extended.
+                ∵ X.
+            ∵ Any socially extended personal service is liable to network effects
+              that tilt the competitive landscape and risk tipping it into a monopoly.
+            ∵ Under the pressure of network effects,
+              only Fa and Fi together can hold a competitive landscape level.
+        ∵ A personal service monopoly would likely contravene a right to F.
+            ∵ Any F rightful, independent attempt to correct the service supply
+              would likely be impeded by the monopoly.
+                ∵ Monopolies tend to impede independent attempts at supply correction.
+            ∵ Some such F rightful, independent attempts would be likely.
+                ∵ Some F *form* independent attempts would be likely.
+                    ∵ All service supplies have faults.
+                    ∵ Faults in the supply of personal services tend to restrict
+                      personal freedom.
+                        ∵ Supply faults tend to restrict utility and use of a service.
+                        ∵ To restrict utility or use of a personal service
+                          is to restrict personal freedom.
+                    ∵ Correction of such restrictive faults would be in high demand.
+                        ∵ People tend to oppose restrictions on their personal freedom.
+                    ∵ Any such correction would inherently be F form.
+                ∵ Some of these F form attempts would likely be F rightful.
+                    ∵ Not all F form attempts would likely be wrong.
+                    ∵ Not being wrong, an F form attempt is thereby F rightful.
+
 
 
 \ This file has been dedicated by Michael Allan to the public domain.  To the extent possible by law,
