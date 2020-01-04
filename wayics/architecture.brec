@@ -8,6 +8,9 @@ Wayic architecture
      Waycast
     ─────────
         : see ~/work/wayic/cast/
+            private URI schemes+
+                : join @ ~/work/wayic/Waybrec/action_plan.brec
+                : private
         U. Personally useful.
             : join @ architectonic.brec
         G. Relating the personal to the endmost goal of the person.
@@ -23,6 +26,9 @@ Wayic architecture
      Recast kit
     ────────────
         : see ~/work/wayic/recast/kit/
+        code the kit+
+            : join @ ~/work/wayic/recast/kit/action_plan.brec
+            : private
         Fx. Easily available to non-users.
             : join
 
@@ -46,6 +52,9 @@ Wayic architecture
 
         Ue. Attractive to engineers.
             : join
+            + Reform the mess in the modelling of private engagements.
+                : join @ ~/work/wayic/Waybrec/action_plan.brec
+                : private
 
 
 
