@@ -13,9 +13,7 @@ Wayic architectonic
 
         G. Relating the personal to the endmost goal of the person.
             : join
-        Gi. Affording formation by the user of the user’s way. \ ‘i’, inward facing
-            : join
-        Go. Affording declaration by the user of the user’s way. \ ‘o’, outward facing
+        Gi. Affording formation by the user of the user’s way. \ re ‘i’, see `architecture.brec`
             : join
 
     ────────
@@ -52,7 +50,6 @@ Wayic architectonic
     ━━━━━━━━━━
      Personal
     ──────────
-        redact+
         U. Personally useful.
             ∵ U inheres in P.
 
@@ -64,18 +61,11 @@ Wayic architectonic
                     : see http://reluk.ca/project/proto-wayic/way
         Gi. Affording formation by the user of the user’s way.
             ∵ Gi inheres in P.
-        Go. Affording declaration by the user of the user’s way.
-            ∵ The publication of users’ ways is a condition of Fx.
-                ∵ Not seeing what others do with the system would hinder its adoption by non-users.
-                    ∵ Nothing equals the efficiency of copying.
-                !! Fx has been removed to architecture as non-essential.
-                    : see architecture.brec
 
 
     ━━━━━━━━
      Social
     ────────
-        redact+
         X. Extending throughout society.
             ∵ X inheres in P.
 
@@ -100,7 +90,6 @@ Wayic architectonic
     ━━━━━━━━━━
      Rightful
     ──────────
-        redact+
         G. Relating the personal to the endmost goal of the person.
             : join @ `^^ Personal$`
 
@@ -125,9 +114,9 @@ Wayic architectonic
 
     • Omitting Fa or Fi would risk infringing a right.
         ∵ Omitting Fa or Fi would allow the development of a personal service monopoly.
-            ∵ The system provides a personal service.
+            ∵ The wayic provides a personal service.
                 ∵ U.
-            ∵ The system is socially extended.
+            ∵ The wayic is socially extended.
                 ∵ X.
             ∵ Any socially extended personal service is liable to network effects
               that tilt the competitive landscape and risk tipping it into a monopoly.
