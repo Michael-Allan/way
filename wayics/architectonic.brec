@@ -3,7 +3,7 @@ Wayic architectonic
     - The fundamental, logically necessary structure of the wayic according to its essential purpose,
       abstracting from all technical options and other variables.
         : join `logically necessary structure` @ `^^architectonic$` @ lexicon.brec
-        / Herein I allow structures to be defined abstractly by their function as opposed to their form.
+    / Much of the structure I define indirectly by functional as opposed to formal predication.
 
     ──────────
      personal
@@ -11,19 +11,19 @@ Wayic architectonic
         U. Personally useful.
             : join
 
-        G. Relating the personal to the endmost goal of the person.
+        G. Relates the personal to the endmost goal of the person.
             : join
-        Gi. Affording formation by the user of the user’s aimed way of life.
+        Gi. Affords formation by the user of the user’s aimed way of life.
             \ re ‘i’, see `architecture.brec`
             : join
 
     ────────
      social
     ┈┈┈┈┈┈┈┈
-        X. Extending throughout society.
+        X. Extends throughout society.
             : join
 
-        H. Holding in society.
+        H. Holds in society.
             : join
         Fa. Alterable in crucial functions by copy and change.
             : join
@@ -33,14 +33,14 @@ Wayic architectonic
     ──────────
      rightful
     ┈┈┈┈┈┈┈┈┈┈
-        G. Relating the personal to the endmost goal of the person.
+        G. Relates the personal to the endmost goal of the person.
             : join
 
-        R. Infringing no right.
+        R. Infringes no right.
             : join
-        Rg. Infringing no rightful relation of the personal to the endmost goal of the person.
+        Rg. Infringes no rightful relation of the personal to the endmost goal of the person.
             : join
-        Rf. Infringing no rightful promotion of a maximum, universal sum of personal freedom.
+        Rf. Infringes no rightful promotion of a greater universal sum of personal freedom.
             : join
 
 
@@ -55,59 +55,59 @@ Wayic architectonic
             ∵ U inheres in P.
 
 
-        G. Relating the personal to the endmost goal of the person.
+        G. Relates the personal to the endmost goal of the person.
             ∵ G inheres in P.
                 ∵ Essential to P is the concept of a personal service relating to one’s aimed way
                   of life.
                 ∵ Essential to one’s aimed way of life is a goal, especially a final or endmost goal.
                     : see http://reluk.ca/project/proto-wayic/way
-        Gi. Affording formation by the user of the user’s aimed way of life.
+        Gi. Affords formation by the user of the user’s aimed way of life.
             ∵ Gi inheres in P.
 
 
     ━━━━━━━━
      Social
     ────────
-        X. Extending throughout society.
+        X. Extends throughout society.
             ∵ X inheres in P.
 
 
-        H. Holding in society.
+        H. Holds in society.
             ∵ H inheres in P.
         Fa. Alterable in crucial functions by copy and change.
+            ∵ No right is infringed.
+                ∵ R.
             ∵ Omitting Fa would risk infringing a right.
                 : join `^^• Omitting Fa or Fi would risk infringing a right.$`
-            ∵ No right is contravened.
-                ∵ R.
         Fi. Interoperable to altered copies in crucial functions.
-            - Operational data are visible to any crucial function of an altered copy
+            - Operational data for crucial functions are visible to any altered copy
               that depends on them.
+            ∵ No right is infringed.
+                ∵ R.
             ∵ Omitting Fi would risk infringing a right.
                 : join `^^• Omitting Fa or Fi would risk infringing a right.$`
-            ∵ No right is contravened.
-                ∵ R.
 
 
 
     ━━━━━━━━━━
      Rightful
     ──────────
-        G. Relating the personal to the endmost goal of the person.
+        G. Relates the personal to the endmost goal of the person.
             : join @ `^^ Personal$`
 
 
-        R. Infringing no right.
+        R. Infringes no right.
             ∵ P asserts rightful action, which implies R.
-        Rf. Infringing no rightful promotion of a maximum, universal sum of personal freedom.
-            ∵ Rightful promotion of a maximum, universal sum of personal freedom is a right.
-                : see right#right_to_F
-            ∵ No right is contravened.
+        Rf. Infringes no rightful promotion of a greater universal sum of personal freedom.
+            ∵ No right is infringed.
                 ∵ R.
-        Rg. Infringing no rightful relation of the personal to the endmost goal of the person.
+            ∵ Rightful promotion of a greater universal sum of personal freedom is a right.
+                : see right#right_to_F
+        Rg. Infringes no rightful relation of the personal to the endmost goal of the person.
+            ∵ No right is infringed.
+                ∵ R.
             ∵ Rightful relation of the personal to the endmost goal of the person is a right.
                 : see right#right_to_G
-            ∵ No right is contravened.
-                ∵ R.
 
 
 
@@ -136,12 +136,12 @@ Wayic architectonic
                         ∵ Supply faults tend to restrict utility and use of a service.
                         ∵ To restrict utility or use of a personal service
                           is to restrict personal freedom.
-                    ∵ Correction of such restrictive faults would be in high demand.
+                    ∵ Correction of such restrictive faults would be in demand.
                         ∵ People tend to oppose restrictions on their personal freedom.
                     ∵ Any such correction would inherently be F form.
-                ∵ Some of these F form attempts would likely be F rightful.
-                    ∵ Not all F form attempts would likely be wrong.
-                    ∵ Not being wrong, an F form attempt is thereby F rightful.
+                ∵ Some of these F-form attempts would likely be F rightful.
+                    ∵ Not all F-form attempts would likely be wrong.
+                    ∵ Not being wrong, an F-form attempt is thereby F rightful.
 
 
     P. The essential purpose of the wayic is as follows.
