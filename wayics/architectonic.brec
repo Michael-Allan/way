@@ -11,7 +11,7 @@ Wayic architectonic
         U. Personally useful.
             : join
 
-        G. Relates the personal to the endmost goal of the person.
+        G. Orients the user to an endmost personal goal.
             : join
         Gi. Affords formation by the user of the user’s aimed way of life.
             \ re ‘i’, see `architecture.brec`
@@ -33,14 +33,14 @@ Wayic architectonic
     ──────────
      rightful
     ┈┈┈┈┈┈┈┈┈┈
-        G. Relates the personal to the endmost goal of the person.
+        G. Orients the user to an endmost personal goal.
             : join
 
         R. Infringes no right.
             : join
-        Rg. Infringes no rightful relation of the personal to the endmost goal of the person.
+        Rg. Infringes no rightful orientation to endmost personal goals.
             : join
-        Rf. Infringes no rightful promotion of a greater universal sum of personal freedom.
+        Rf. Infringes no rightful promotion of personal freedom.
             : join
 
 
@@ -55,12 +55,12 @@ Wayic architectonic
             ∵ U inheres in P.
 
 
-        G. Relates the personal to the endmost goal of the person.
+        G. Orients the user to an endmost personal goal.
             ∵ G inheres in P.
-                ∵ Essential to P is the concept of a personal service relating to one’s aimed way
-                  of life.
-                ∵ Essential to one’s aimed way of life is a goal, especially a final or endmost goal.
-                    : see http://reluk.ca/project/proto-wayic/way
+                ∵ P concerns the personal formation of aimed ways of life.
+                ∵ Essential to an aimed way of life is a personal goal, especially a final
+                  or endmost goal.
+                ∵ Essential to an aimed way of life is a personal choice of means in respect of the goal.
         Gi. Affords formation by the user of the user’s aimed way of life.
             ∵ Gi inheres in P.
 
@@ -92,21 +92,21 @@ Wayic architectonic
     ━━━━━━━━━━
      Rightful
     ──────────
-        G. Relates the personal to the endmost goal of the person.
+        G. Orients the user to an endmost personal goal.
             : join @ `^^ Personal$`
 
 
         R. Infringes no right.
             ∵ P asserts rightful action, which implies R.
-        Rf. Infringes no rightful promotion of a greater universal sum of personal freedom.
+        Rf. Infringes no rightful promotion of personal freedom.
             ∵ No right is infringed.
                 ∵ R.
-            ∵ Rightful promotion of a greater universal sum of personal freedom is a right.
+            ∵ Rightful promotion of personal freedom is a right.
                 : see right#right_to_F
-        Rg. Infringes no rightful relation of the personal to the endmost goal of the person.
+        Rg. Infringes no rightful orientation to endmost personal goals.
             ∵ No right is infringed.
                 ∵ R.
-            ∵ Rightful relation of the personal to the endmost goal of the person is a right.
+            ∵ Rightful orientation to endmost personal goals is a right.
                 : see right#right_to_G
 
 
