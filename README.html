@@ -76,58 +76,47 @@
         </ul>
     </section>
 <script> // Inadvertently this all renders when viewed on Git Hub.
-    ( function()
-    {
+    ( function() {
 
-        /** Corrects hyperlinks and related content of this document under the assumption
-          * that it is *not* served from Git Hub.
+        /** Corrects the hyperlinks and related content of this document under the assumption
+          * that the document was not served from Git Hub.
           */
-        function amend()
-        {
+        function amend() {
             if( typeof document.createNodeIterator !== 'function' ) return;
 
             let isCorrect_github = false;
             let isCorrect_reluk = docLoc.indexOf('//reluk.ca/') < 0;
             const traversal = document.createNodeIterator( document.body, NodeFilter.SHOW_ELEMENT );
-            for( traversal.nextNode()/*onto the body element itself*/;; )
-            {
+            for( traversal.nextNode()/*onto the body element itself*/;; ) {
                 const t = traversal.nextNode();
                 if( t === null ) break;
 
                 if( t.localName !== 'a' ) continue;
 
                 let maybeFinished = false;
-                if( !isCorrect_reluk && t.href === 'http://reluk.ca/project/waycast/' )
-                {
+                if( !isCorrect_reluk && t.href === 'http://reluk.ca/project/waycast/' ) {
+
                   // Disable useless hyperlink, appending text directions instead
                   // ─────────────────────────
                     t.removeAttribute( 'href' );
                     const text = document.createTextNode( ' (top of this page)' );
                     t.parentNode.appendChild( text, t.nextSibling );
-                    isCorrect_reluk = maybeFinished = true;
-                }
-                if( !isCorrect_github )
-                {
+                    isCorrect_reluk = maybeFinished = true; }
+                if( !isCorrect_github ) {
                     let text = asText( t.firstChild );
-                    if( text && text.data === 'Git Hub' )
-                    {
+                    if( text && text.data === 'Git Hub' ) {
                         text = asText( t.nextSibling );
-                        if( text !== null )
-                        {
+                        if( text !== null ) {
+
                           // Remove deceptive text directions, enabling the hyperlink instead
                           // ────────────────────────────────
                             text.replaceData( 2, text.length, '' ); // Removing the parenthetic trailer.
                             t.setAttribute( 'href', 'https://github.com/Michael-Allan/waycast/' );
-                            isCorrect_github = maybeFinished = true;
-                        }
-                    }
-                }
-                if( maybeFinished && isCorrect_github && isCorrect_reluk ) break;
-            }
-        }
+                            isCorrect_github = maybeFinished = true; }}}
+                if( maybeFinished && isCorrect_github && isCorrect_reluk ) break; }}
 
 
-        /** @return The given node if it is a text node, otherwise null.
+        /** Give `node` if it is a text node, otherwise give null.
           */
         function asText( node ) { return node.nodeType === /*Node.TEXT_NODE*/3? node : null; }
 
@@ -137,9 +126,7 @@
 
     ////////////////////
 
-        if( docLoc.indexOf('//github.com/') < 0 ) amend();
-
-    }() );
+        if( docLoc.indexOf('//github.com/') < 0 ) amend(); }() );
     </script>
 
 <!-- - -
