@@ -56,25 +56,19 @@
     <p>
         The files of this waycast are dedicated to the public domain
         through <a href='https://creativecommons.org/publicdomain/zero/1.0/'>
-        CC0 waivers</a> written into their source texts.
-        </p>
-    <ul>
-        <li>Web copy of latest files at <a href='http://reluk.ca/project/waycast/'>reluk.ca</a>.</li>
-        <li>Browsable revision history at <a>Git Hub</a>.* (top of this page)</li>
-        <li>
-            Bare `.git` clones at
-            <a href=    'http://reluk.ca/var/repo/git/waycast.git'>reluk.ca</a> or
-            <a href='https://github.com/Michael-Allan/waycast.git'>Git Hub</a>.*
-            </li>
-        <li>
-            Installation <a href='_/waycast_installation.brec'>
-            instructions</a> for the copying waycaster.
-            <div style='font-size:0.85em; margin-left:1em; margin-top:0.3em; opacity:0.7'>
-                * Branch `reluk.ca` is liable to be rebased, `master` is stable.
-                </div>
-            </li>
-        </ul>
-    </section>
+        CC0 waivers</a> written into their source texts.</p>
+    <ul><li>Browsable <a href='http://reluk.ca/project/waycast/'>project files</a>.</li>
+        <li>Browsable <a>revision history</a>.* (top of this page)</li>
+        <li>Bare `.git` repository at
+            <a href=    'http://reluk.ca/var/repo/git/waycast.git'>reluk.ca</a>, mirror at
+            <a href='https://github.com/Michael-Allan/waycast.git'>github.com</a>.*
+            <div style='margin:0.5em 1.0em'>
+               git clone http://reluk.ca/var/repo/git/waycast.git</div></li>
+        <li>Installation <a href='_/waycast_installation.brec'>
+            instructions</a> for the copying waycaster.</li></ul>
+    <p style='opacity:0.7'><small>
+        * Includes branch `reluk.ca` which is liable to rebasing, and `master` which is not.
+        </small></p></section>
 <script> // Inadvertently this all renders when viewed on Git Hub.
     ( function() {
 
@@ -104,7 +98,7 @@
                     isCorrect_reluk = maybeFinished = true; }
                 if( !isCorrect_github ) {
                     let text = asText( t.firstChild );
-                    if( text && text.data === 'Git Hub' ) {
+                    if( text && text.data === 'revision history' ) {
                         text = asText( t.nextSibling );
                         if( text !== null ) {
 
