@@ -33,12 +33,12 @@ Wayic architectonic
     ──────────
      rightful
     ┈┈┈┈┈┈┈┈┈┈
-        G. Orients the user to an endmost personal goal.
+        G. Orients the user to an endmost goal.
             : join
 
         R. Infringes no right.
             : join
-        Rg. Infringes no rightful orientation to endmost personal goals.
+        Rg. Infringes no rightful orientation to endmost goals.
             : join
         Rf. Infringes no rightful promotion of personal freedom.
             : join
@@ -57,10 +57,11 @@ Wayic architectonic
 
         G. Orients the user to an endmost personal goal.
             ∵ G inheres in P.
-                ∵ P concerns the personal formation of aimed ways of life.
+                ∵ P concerns the formation of aimed ways of life.
                 ∵ Intrinsic to an aimed way of life is a personal goal, especially a final
                   or endmost goal.
-                ∵ Intrinsic to an aimed way of life is a personal choice of means in respect of the goal.
+                ∵ Intrinsic to an aimed way of life is an orientation to the goal.
+                    ∵ Intrinsic to an aimed way of life is a choice of means in respect of the goal.
         Gi. Affords the user formation of an aimed way of life.
             ∵ Gi inheres in P.
 
@@ -92,8 +93,8 @@ Wayic architectonic
     ━━━━━━━━━━
      Rightful
     ──────────
-        G. Orients the user to an endmost personal goal.
-            : join @ `^^ Personal$`
+        G. Orients the user to an endmost goal.
+            : join `^^G\.` @ `^^ Personal$`
 
 
         R. Infringes no right.
@@ -103,10 +104,10 @@ Wayic architectonic
                 ∵ R.
             ∵ Rightful promotion of personal freedom is a right.
                 : see right#right_to_F
-        Rg. Infringes no rightful orientation to endmost personal goals.
+        Rg. Infringes no rightful orientation to endmost goals.
             ∵ No right is infringed.
                 ∵ R.
-            ∵ Rightful orientation to endmost personal goals is a right.
+            ∵ Rightful orientation to endmost goals is a right.
                 : see right#right_to_G
 
 
