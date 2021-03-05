@@ -1,8 +1,8 @@
 <!-- - -
- ! Omit the “beginnings of an HTML document (<html>, <head>, etc.)”, this file is targetable
+ ! Omit the formal “beginnings of an HTML document (<html>, <head>, etc.)”, this file is targetable
  ! by `ReadmeName` directives.  http://httpd.apache.org/docs/2.4/mod/mod_autoindex.html
  ! Maintain a Markdown compatible form, this file is targeted by Git Hub adaptor link `README.md`. -->
-<h1 lang='en-CA'>Declaration of an aimed way of life</h1>
+<h1 lang='en-CA'>Aiming a way of life</h1>
 <section lang='en-CA'> <!-- Introduction -->
     <p>
         This is my waycast.  I use it to declare my final goal, my choice of means
@@ -28,7 +28,7 @@
     <h2>See also</h2>
     <ul>
         <li>
-            Definitions of <a href='wayics/lexicon.brec'>
+            Definitions of <a href='wayic/lexicon.brec'>
             ‘aimed way of life’</a> and <a href='http://reluk.ca/project/wayic/cast/lexicon.brec'>
             ‘waycast’</a>.</li>
         <li>
@@ -58,58 +58,10 @@
     <p style='opacity:0.7'><small>
         * Includes branch `reluk.ca` which is liable to rebasing, and `master` which is not.
         </small></p></section>
-<script> // Inadvertently this all renders when viewed on Git Hub.
-    ( function() {
-
-        /** Corrects the hyperlinks and related content of this document under the assumption
-          * that the document was not served from Git Hub.
-          */
-        function amend() {
-            if( typeof document.createNodeIterator !== 'function' ) return;
-
-            let isCorrect_github = false;
-            let isCorrect_reluk = docLoc.indexOf('//reluk.ca/') < 0;
-            const traversal = document.createNodeIterator( document.body, NodeFilter.SHOW_ELEMENT );
-            for( traversal.nextNode()/*onto the body element itself*/;; ) {
-                const t = traversal.nextNode();
-                if( t === null ) break;
-
-                if( t.localName !== 'a' ) continue;
-
-                let maybeFinished = false;
-                if( !isCorrect_reluk && t.href === 'http://reluk.ca/project/waycast/' ) {
-
-                  // Disable useless hyperlink, appending text directions instead
-                  // ─────────────────────────
-                    t.removeAttribute( 'href' );
-                    const text = document.createTextNode( ' (top of this page)' );
-                    t.parentNode.appendChild( text, t.nextSibling );
-                    isCorrect_reluk = maybeFinished = true; }
-                if( !isCorrect_github ) {
-                    let text = asText( t.firstChild );
-                    if( text && text.data === 'revision history' ) {
-                        text = asText( t.nextSibling );
-                        if( text !== null ) {
-
-                          // Remove deceptive text directions, enabling the hyperlink instead
-                          // ────────────────────────────────
-                            text.replaceData( 2, text.length, '' ); // Removing the parenthetic trailer.
-                            t.setAttribute( 'href', 'https://github.com/Michael-Allan/waycast/' );
-                            isCorrect_github = maybeFinished = true; }}}
-                if( maybeFinished && isCorrect_github && isCorrect_reluk ) break; }}
-
-
-        /** Give `node` if it is a text node, otherwise give null.
-          */
-        function asText( node ) { return node.nodeType === /*Node.TEXT_NODE*/3? node : null; }
-
-
-        const docLoc = document.URL;
-
-
-    ////////////////////
-
-        if( docLoc.indexOf('//github.com/') < 0 ) amend(); }() );
+<script src='http://reluk.ca/project/autoindex.js'></script>
+<script> // Inadvertently these `script` elements render when viewed on Git Hub.
+    if( document.URL.indexOf('//github.com/') < 0 ) {
+        ca_reluk_project.amend( /*properPath*/'waycast', /*tokenName*/'waycast' ); }
     </script>
 
 <!-- - -
