@@ -1,7 +1,6 @@
 Wayic architecture
 
     - The designed structure and fit to purpose of the wayic.
-        : join `designed structure` @ `^^architecture$` @ lexicon.brec
 
 
     ━━━━━━━━━
@@ -9,12 +8,13 @@ Wayic architecture
     ─────────
         : see http://reluk.ca/project/wayic/cast/
         U. Personally useful.
-            : join @ architectonic.brec
+            : see @ `^^ personal$` @ architectonic.brec
 
         G. Orients the user to an endmost personal goal.
-            : join @ architectonic.brec
+            : see @ `^^ personal$` @ architectonic.brec
+            : see @ `^^ rightful$` @ architectonic.brec
         Gi. Affords the user formation of an aimed way of life. \ ‘i’, inward facing
-            : join @ architectonic.brec
+            : see @ `^^ personal$` @ architectonic.brec
         Go. Affords declaration by the user of the user’s aimed way of life. \ ‘o’, outward facing
             : join
 
@@ -37,16 +37,16 @@ Wayic architecture
     ────────────
         : see http://reluk.ca/project/wayic/code/
         Fa. Alterable in crucial functions by copy and change.
-            : join @ architectonic.brec
+            : see @ `^^ social$` @ architectonic.brec
         Fi. Interoperable to altered copies in crucial functions.
-            : join @ architectonic.brec
+            : see @ `^^ social$` @ architectonic.brec
 
         R. Infringes no right.
-            : join @ architectonic.brec
+            : see @ `^^ rightful$` @ architectonic.brec
         Rg. Infringes no rightful orientation to endmost goals.
-            : join @ architectonic.brec
+            : see @ `^^ rightful$` @ architectonic.brec
         Rf. Infringes no rightful promotion of personal freedom.
-            : join @ architectonic.brec
+            : see @ `^^ rightful$` @ architectonic.brec
 
         Ue. Attractive to engineers.
             : join
@@ -61,9 +61,9 @@ Wayic architecture
     ───────────────────
         / Structure yet to be designed, that is.
         X. Extends throughout society.
-            : see @ architectonic.brec
+            : see @ `^^ social$` @ architectonic.brec
         H. Holds in society.
-            : see @ architectonic.brec
+            : see @ `^^ social$` @ architectonic.brec
         redact Wayic Intercast+
             : join http://reluk.ca/project/wayic/intercast/action_plan.brec
             : private
