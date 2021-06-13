@@ -6,9 +6,6 @@ Wayic architectonic
     ──────────
      personal
     ┈┈┈┈┈┈┈┈┈┈
-        U. Personally useful.
-            : join
-
         G. Orients the user to an endmost personal goal.
             : join
         Gi. Affords the user formation of an aimed way of life. \ re ‘i’, see `architecture.brec`
@@ -30,7 +27,7 @@ Wayic architectonic
     ──────────
      rightful
     ┈┈┈┈┈┈┈┈┈┈
-        G. Orients the user to an endmost goal.
+        G. Orients the user to an endmost personal goal.
             : join
 
         R. Infringes no right.
@@ -48,11 +45,6 @@ Wayic architectonic
     ━━━━━━━━━━
      Personal
     ──────────
-        U. Personally useful.
-            : e.g. @ `^^ Waycast$` @ architecture.brec
-            ∵ U inheres in P.
-
-
         G. Orients the user to an endmost personal goal.
             : e.g. @ `^^ Waycast$` @ architecture.brec
             ∵ G inheres in P.
@@ -97,7 +89,7 @@ Wayic architectonic
     ━━━━━━━━━━
      Rightful
     ──────────
-        G. Orients the user to an endmost goal.
+        G. Orients the user to an endmost personal goal.
             : join `^^G\.` @ `^^ Personal$`
 
 
@@ -125,7 +117,8 @@ Wayic architectonic
     • Omitting Fa or Fi would risk infringing a right.
         ∵ Omitting Fa or Fi would allow the development of a personal service monopoly.
             ∵ The wayic provides a personal service.
-                ∵ U.
+                ∵ G.
+                ∵ Gi.
             ∵ The wayic is socially extended.
                 ∵ X.
             ∵ Any socially extended personal service is liable to network effects
