@@ -1,108 +1,60 @@
 Wayic architecture
 
-    - The designed structure and fit to purpose of the wayic.
-        : re `purpose` see purpose.brec
+    - The designed structure of the wayic and its fit to the architectonic.
+        : re `architectonic` see architectonic.brec
+    respond to peer critique+
+        : join @ http://reluk.ca/project/wayic/code/action_plan.brec
+        : private
 
 
     ━━━━━━━━━
-     Waycast
+     Waycast ─ Brings the task of goal orientation into the hands of the user
     ─────────
         : see http://reluk.ca/project/wayic/cast/
         G. Orients the user to an endmost personal goal.
             : see @ `^^ personal$` @ architectonic.brec
             : see @ `^^ rightful$` @ architectonic.brec
+        Go. Affords the user declaration of an aimed way of life. \ ‘o’, outward facing
+
+
+
+    ━━━━━━━━━━━━━━━━━━━
+     Intercast network ─ Enables the user to be competent at the task of goal orientation
+    ───────────────────
+        : see http://reluk.ca/project/wayic/intercast/
+        X. Extends throughout society.
+            : see @ `^^ social$` @ architectonic.brec
         Gi. Affords the user formation of an aimed way of life. \ ‘i’, inward facing
             : see @ `^^ personal$` @ architectonic.brec
-        Go. Affords declaration by the user of the user’s aimed way of life. \ ‘o’, outward facing
-            : join
 
 
 
     ━━━━━━━━━━━━
-     Recast kit
-    ────────────
-        : see http://reluk.ca/project/wayic/recast/kit/
-        Fx. Easily available to non-users.
-            : join
-        code the kit+
-            : join @ http://reluk.ca/project/wayic/recast/kit/action_plan.brec
-            : private
-
-
-
-    ━━━━━━━━━━━━
-     Wayic Code
+     Wayic Code ─ Safeguards the integrity of the whole
     ────────────
         : see http://reluk.ca/project/wayic/code/
-        Fa. Alterable in crucial functions by copy and change.
-            : see @ `^^ social$` @ architectonic.brec
-        Fi. Interoperable to altered copies in crucial functions.
+        H. Holds in society.
             : see @ `^^ social$` @ architectonic.brec
 
-        R. Infringes no right.
-            : see @ `^^ rightful$` @ architectonic.brec
         Rg. Infringes no rightful orientation to endmost goals.
             : see @ `^^ rightful$` @ architectonic.brec
         Rf. Infringes no rightful promotion of personal freedom.
             : see @ `^^ rightful$` @ architectonic.brec
 
-        Ue. Attractive to engineers.
-            : join
-
-
-
-    ━━━━━  P r o b l e m a t i c  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-
-    ━━━━━━━━━━━━━━━━━━━
-     Missing structure
-    ───────────────────
-        / Structure yet to be designed, that is.
-        X. Extends throughout society.
+        Fa. Alterable in crucial functions by copy and change.
             : see @ `^^ social$` @ architectonic.brec
-        H. Holds in society.
+        Fi. Interoperable to altered copies in crucial functions.
             : see @ `^^ social$` @ architectonic.brec
-        redact Wayic Intercast+
-            : join http://reluk.ca/project/wayic/intercast/action_plan.brec
-            : private
 
 
 
-    ━━━━━━━━━━━━━━━━━━━━━
-     Remedial contraints
-    ─────────────────────
-        / Constraints instrumental to the purpose of the wayic in remedying structural deficiencies
-          that would likely cause failure.
-        Ue. Attractive to engineers.
-            ∵ X is missing.
-                : see `^^X\.` @ `^^ Missing structure$`
-            ∵ X is necessary to the purpose.
-                : join `^^X\.` @ architectonic.brec
-            ∵ Ue ensures X.
-                ∵ The wayic will extend itself throughout society if it involves and engages engineers.
-                    ∵ Engineers will build it and use it.
-                    ∵ Engineers are a part of society throughout.
-            ∵ H is missing.
-                : see `^^H\.` @ `^^ Missing structure$`
-            ∵ H is necessary to the purpose.
-                : join `^^H\.` @ architectonic.brec
-            ∵ Ue ensures H.
-                ∵ The wayic will maintain itself in society if it involves and engages engineers.
-                    ∵ Engineers will use it and maintain it.
-                    ∵ Engineers will remain a part of society.
-        Fx. Easily available to non-users.
-            ∵ Easy availability is a practical condition of Ue.  Ue would be infeasible without it.
-                - The engineer wants to get his hands on the thing being built.
-                - He wants to appraise its form, improve its function and gain immediate feedback
-                  on the results.
-        Go. Affords declaration by the user of the user’s aimed way of life.
-            ∵ Way publication is a condition of Fx.
-                ∵ Not seeing what others do with the wayic would hinder its adoption by non-users.
-                    ∵ Copying is the most efficient means of adopting a practice.
-            ∵ Nominate way publication is an affordance of G.
-                ∵ A way published *nominately* attaches a personal name to the published way
-                  and thereby to the endmost goal of the person.
-            ∵ Way declaration entails nominate way publication.
+    ━━━━━  C o n s t r a i n t   o f   a r c h i t e c t u r a l   o r i g i n   ━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+    Go. Affords the user declaration of an aimed way of life.
+        ∵ Way declaration is a condition of the intercast network.
+            ∵ Way declaration is a condition of formal way publication.
+            ∵ Formal way publication is a condition of the intercast network.
 
 
 

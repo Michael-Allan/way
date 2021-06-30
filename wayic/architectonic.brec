@@ -2,6 +2,7 @@ Wayic architectonic
 
     - The fundamental constraints imposed on the wayic by its purpose alone,
       abstracting from all technical options and other variables of design.
+        : re `purpose` see purpose.brec
 
     ──────────
      personal
@@ -11,17 +12,12 @@ Wayic architectonic
         Gi. Affords the user formation of an aimed way of life. \ re ‘i’, see `architecture.brec`
             : join
 
-    ────────
-     social
-    ┈┈┈┈┈┈┈┈
+    ──────────
+     societal
+    ┈┈┈┈┈┈┈┈┈┈
         X. Extends throughout society.
             : join
-
         H. Holds in society.
-            : join
-        Fa. Alterable in crucial functions by copy and change.
-            : join
-        Fi. Interoperable to altered copies in crucial functions.
             : join
 
     ──────────
@@ -30,11 +26,14 @@ Wayic architectonic
         G. Orients the user to an endmost personal goal.
             : join
 
-        R. Infringes no right.
-            : join
         Rg. Infringes no rightful orientation to endmost goals.
             : join
         Rf. Infringes no rightful promotion of personal freedom.
+            : join
+
+        Fa. Alterable in crucial functions by copy and change.
+            : join
+        Fi. Interoperable to altered copies in crucial functions.
             : join
 
 
@@ -46,7 +45,7 @@ Wayic architectonic
      Personal
     ──────────
         G. Orients the user to an endmost personal goal.
-            : e.g. @ `^^ Waycast$` @ architecture.brec
+            : e.g. @ `^^ Waycast` @ architecture.brec
             ∵ G inheres in P.
                 ∵ P concerns the formation of aimed ways of life.
                 ∵ Intrinsic to an aimed way of life is a personal goal, especially a final
@@ -54,35 +53,19 @@ Wayic architectonic
                 ∵ Intrinsic to an aimed way of life is an orientation to the goal.
                     ∵ Intrinsic to an aimed way of life is a choice of means in respect of the goal.
         Gi. Affords the user formation of an aimed way of life.
-            : e.g. @ `^^ Waycast$` @ architecture.brec
+            : e.g. @ `^^ Intercast network` @ architecture.brec
             ∵ Gi inheres in P.
 
 
-    ━━━━━━━━
-     Social
-    ────────
+    ━━━━━━━━━━
+     Societal
+    ──────────
         X. Extends throughout society.
-            : N.B. @ `^^ Missing structure$` @ architecture.brec
+            : e.g. @ `^^ Intercast network` @ architecture.brec
             ∵ X inheres in P.
-
-
         H. Holds in society.
-            : N.B. @ `^^ Missing structure$` @ architecture.brec
+            : e.g. @ `^^ Wayic Code` @ architecture.brec
             ∵ H inheres in P.
-        Fa. Alterable in crucial functions by copy and change.
-            : e.g. @ `^^ Wayic Code$` @ architecture.brec
-            ∵ No right is infringed.
-                ∵ R.
-            ∵ Omitting Fa would risk infringing a right.
-                : join `^^• Omitting Fa or Fi would risk infringing a right.$`
-        Fi. Interoperable to altered copies in crucial functions.
-            : e.g. @ `^^ Wayic Code$` @ architecture.brec
-            - Operational data for crucial functions are visible to any altered copy
-              that depends on them.
-            ∵ No right is infringed.
-                ∵ R.
-            ∵ Omitting Fi would risk infringing a right.
-                : join `^^• Omitting Fa or Fi would risk infringing a right.$`
 
 
 
@@ -93,21 +76,33 @@ Wayic architectonic
             : join `^^G\.` @ `^^ Personal$`
 
 
-        R. Infringes no right.
-            : e.g. @ `^^ Wayic Code$` @ architecture.brec
-            ∵ P asserts rightful action, which implies R.
-        Rf. Infringes no rightful promotion of personal freedom.
-            : e.g. @ `^^ Wayic Code$` @ architecture.brec
-            ∵ No right is infringed.
-                ∵ R.
-            ∵ Rightful promotion of personal freedom is a right.
-                : see right#right_to_F
         Rg. Infringes no rightful orientation to endmost goals.
-            : e.g. @ `^^ Wayic Code$` @ architecture.brec
+            : e.g. @ `^^ Wayic Code` @ architecture.brec
             ∵ No right is infringed.
                 ∵ R.
             ∵ Rightful orientation to endmost goals is a right.
                 : see right#right_to_G
+        Rf. Infringes no rightful promotion of personal freedom.
+            : e.g. @ `^^ Wayic Code` @ architecture.brec
+            ∵ No right is infringed.
+                ∵ R.
+            ∵ Rightful promotion of personal freedom is a right.
+                : see right#right_to_F
+
+        Fa. Alterable in crucial functions by copy and change.
+            : e.g. @ `^^ Wayic Code` @ architecture.brec
+            ∵ No right is infringed.
+                ∵ R.
+            ∵ Omitting Fa would risk infringing a right.
+                : join `^^• Omitting Fa or Fi would risk infringing a right.$`
+        Fi. Interoperable to altered copies in crucial functions.
+            : e.g. @ `^^ Wayic Code` @ architecture.brec
+            - Operational data for crucial functions are visible to any altered copy
+              that depends on them.
+            ∵ No right is infringed.
+                ∵ R.
+            ∵ Omitting Fi would risk infringing a right.
+                : join `^^• Omitting Fa or Fi would risk infringing a right.$`
 
 
 
@@ -143,6 +138,10 @@ Wayic architectonic
                 ∵ Some of these F-form attempts would likely be F rightful.
                     ∵ Not all F-form attempts would likely be wrong.
                     ∵ Not being wrong, an F-form attempt is thereby F rightful.
+
+
+    R. Infringes no right.
+        ∵ P asserts rightful action, which implies R.
 
 
     P. The purpose of the wayic is:
