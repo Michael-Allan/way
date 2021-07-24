@@ -23,12 +23,9 @@ Wayic architectonic
     ──────────
      rightful
     ┈┈┈┈┈┈┈┈┈┈
-        G. Orients the user to an endmost personal goal.
+        Rf. Hinders no rightful personal freedom.
             : join
-
-        Rg. Infringes no rightful orientation to endmost goals.
-            : join
-        Rf. Infringes no rightful promotion of personal freedom.
+        Rg. Respects all rightful orientation to endmost goals.
             : join
 
         Fa. Alterable in crucial functions by copy and change.
@@ -72,27 +69,21 @@ Wayic architectonic
     ━━━━━━━━━━
      Rightful
     ──────────
-        G. Orients the user to an endmost personal goal.
-            : join `^^G\.` @ `^^ Personal$`
-
-
-        Rg. Infringes no rightful orientation to endmost goals.
+        Rf. Hinders no rightful personal freedom.
             : e.g. @ `^^ Wayic Code` @ architecture.brec
             ∵ No right is infringed.
-                ∵ R.
-            ∵ Rightful orientation to endmost goals is a right.
-                : see right#right_to_G
-        Rf. Infringes no rightful promotion of personal freedom.
+                : see `^^R$`
+            ∵ To hinder a rightful personal freedom would infringe a right to F.
+        Rg. Respects all rightful orientation to endmost goals.
             : e.g. @ `^^ Wayic Code` @ architecture.brec
             ∵ No right is infringed.
-                ∵ R.
-            ∵ Rightful promotion of personal freedom is a right.
-                : see right#right_to_F
+                : see `^^R$`
+            ∵ To disrespect a rightful orientation to an endmost goal would infringe a right to G.
 
         Fa. Alterable in crucial functions by copy and change.
             : e.g. @ `^^ Wayic Code` @ architecture.brec
             ∵ No right is infringed.
-                ∵ R.
+                : see `^^R$`
             ∵ Omitting Fa would risk infringing a right.
                 : join `^^• Omitting Fa or Fi would risk infringing a right.$`
         Fi. Interoperable to altered copies in crucial functions.
@@ -100,7 +91,7 @@ Wayic architectonic
             - Operational data for crucial functions are visible to any altered copy
               that depends on them.
             ∵ No right is infringed.
-                ∵ R.
+                : see `^^R$`
             ∵ Omitting Fi would risk infringing a right.
                 : join `^^• Omitting Fa or Fi would risk infringing a right.$`
 

@@ -2,7 +2,7 @@ Wayic architecture
 
     - The designed structure of the wayic and its fit to the architectonic.
         : re `architectonic` see architectonic.brec
-    respond to peer critique+
+    respond to peer criticism+
         : join @ http://reluk.ca/project/wayic/code/action_plan.brec
         : private
 
@@ -36,9 +36,9 @@ Wayic architecture
         H. Holds in society.
             : see @ `^^ social$` @ architectonic.brec
 
-        Rg. Infringes no rightful orientation to endmost goals.
+        Rf. Hinders no rightful personal freedom.
             : see @ `^^ rightful$` @ architectonic.brec
-        Rf. Infringes no rightful promotion of personal freedom.
+        Rg. Respects all rightful orientation to endmost goals.
             : see @ `^^ rightful$` @ architectonic.brec
 
         Fa. Alterable in crucial functions by copy and change.
