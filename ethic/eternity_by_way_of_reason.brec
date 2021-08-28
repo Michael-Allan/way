@@ -1,47 +1,75 @@
 Eternity by way of reason
 
     - This file describes a final end in the full realization of humanity — in reason consummate,
-      in time on-going — and argues for its incomparable value.
+      and time on-going — and argues for its incomparable value.
 
     ─────
      aim
     ┈┈┈┈┈
         - HR as a final end.
 
-            HR. Ends H and R in conjunction.
+            HR. The conjunction of ends H and R.
             H. Humanity extant through all reasonable ends.
                 - For any reasonable end E that would obtain at time tE,
                   humanity continues to exist through tE.
                 - Reasonable ends are those we have reason to value.
-                    - The determinant of value is rational deliberation.
-            R. Full realization of our capacity for reason.
+                    : see `^^evaluation of ends$`
+            R. Full exercise of our capacity for reason.
+
+        humanity
+            - Our rational nature.
+        evaluation of ends
+            - The evaluator is reason.
+            - Any specific theory of value or other evaluative criterion is itself subject
+              to reasoned evaluation: we employ it only so far as we have reason to value
+              its employment based on logic, trial and error, and deliberation.
 
 
     ─────────
      warrant
     ┈┈┈┈┈┈┈┈┈
+        / Why pursue HR?
         - HR has incomparable value.
         - No reasonable end E has greater value than HR.
-            ∵ The value of HR includes the value of E.
+
+                  vHR ≥ vE
+
+            ∵ vHR is an aggregate that includes vE.
                 ∵ HR includes E.
                     ∵ E is a reasonable end.
                     ∵ All reasonable ends are included in HR.
             ∵ HR excludes all ends of net negative value.
+                / The aggregate worth of other included ends cannot be less than zero.
                 ∵ HR includes only reasonable ends.
-                ∵ No reasonable end has absolute negative value except where it is
-                  a necessary condition to a further end of (net) positive value.
-        warrant for R
+                ∵ No reasonable end N has negative value except where it conditions a further end P
+                  of positive value, such that together they have net positive value.
+
+                          vN + vP > 0
+
+                    + Expand to account for multiple N per P.
+                        / Viz. multiple conditioning ends of negative value per conditioned end.
+        importance of R
             / Why HR, not H alone?
-            a) R is a condition of the supreme value that warrants HR.
-                ∵ The value of HR depends on the extent of progress toward R.
-                    ∵ Reason is the determinant of the reasonable ends of H,
-                      on which the value of HR is based.
-                        : see `^^- Reasonable ends are those we have reason to value\.$`
-                        : see `^^warrant$`
-            b) R is a prudent means toward H.
-                ∵ The adoption of ends such as H depends on progress toward R.
-                    + Explain by reference to the argument of *structural conditions*.
-                        : see structural_conditions.brec
+            - R is a limiting condition of the aggregate value that warrants HR, and thereby warrants H.
+                : re `aggregate value that warrants HR` see `^^ warrant$`
+            - How far we exercise our capacity for reason (R°, the degree of R)
+              affects the aggregate value in three ways.
+                i. R° determines how reasonable are the ends of H (component ends), which in turn
+                  determines what they contribute to the aggregate value.
+                    : see `^^- Reasonable ends are those we have reason to value\.$`
+                    - Lapses here will tend to lessen the aggregate value of HR
+                      by lessening the value of its component ends.
+                ii. R° determines the firmness of will and fitness of means put to each component end.
+                    ∵ The willing of ends and the choosing of means are functions of practical reason.
+                    - Lapses here will tend to undermine the aggregate value of HR
+                      by threatening the attainment of one or more component ends.
+                iii. R° determines the firmness of will and fitness of means put to avoiding extinction.
+                    : re `avoiding extinction` see `Humanity extant` @ `^^HR\.$` @ `^^ aim$`
+                    : re `avoiding extinction` see ../diaspora/facing_existential_hazard.brec
+                    ∵ The willing of ends and the choosing of means are functions of practical reason.
+                    - Lapses here will pose a threat to the aggregate value of HR by risking a premature
+                      extinction that would cut short the attainment of its component ends.
+
 
 
 \ 🅮 This file has been dedicated by its author(s) to the public domain.  To the extent possible
