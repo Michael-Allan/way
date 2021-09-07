@@ -3,9 +3,10 @@ Humanity in full
     - This file describes a final end in the full realization of humanity — in reason consummate,
       and achievement complete — and argues for its incomparable value.
 
+
+    ━━━━━
+     Aim
     ─────
-     aim
-    ┈┈┈┈┈
         - HR as a final end.
 
             HR. The conjunction of ends H and R.
@@ -23,35 +24,41 @@ Humanity in full
               and prolong its exercise indefinitely, and so defy extinction.
                 : re `as did Kant` see `^^Kant.+1785.+Groundwork` @ bibliography.brec :
                   ‘… a rational nature [e.g. humanity] exists as an end in itself.’  4:429
-        reasonable end
-            - A reasonable end is one which both a) is realistic, and b) we have reason to value,
-              whether in its own right, or as a condition of a further end which itself is reasonable.
-                : re `reason to value` see `^^evaluation of ends$`
-            - Moreover, whether an end is reasonable may depend on its relation to other ends.
-                : see `judged reasonable` @ `^^- Where.+value is relative` @ `^^evaluation of ends$`
         principal end
             - One of H, R or HR.
         component end
             - One of the reasonable ends of H exclusive of the principal ends.
-        evaluation of ends
-            - Evaluation is based on reason.
-            - It determines in part whether ends are reasonable, and thereby component ends of H.
-            - Theories of value and evaluative practices are themselves subject to reasoned evaluation:
-              we employ them only so far as we have reason to value them based on logic, trial and error,
-              and deliberation.
-            - Without predjudice to the foregoing, it seems safe to predict that any reasonable practice
-              of evaluation will uphold the following stipulations:
-                - Evaluation proceeds in milieux where lines of thought, claims and counter-claims,
-                  are defeasible through public exposure.
-                - Where an end’s value is relative to the presence of another end, the whole network
-                  of interrelated ends is evaluated over all its combinations.
-                    - One combination alone is chosen.
-                    - Its ends alone are judged reasonable.
 
 
+        ────────────────────
+         ends justification
+        ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+            / Showing whether an end is reasonable.
+            - An end is reasonable that:
+                a) is realistic,
+                b) is not excluded on account of its relation to other ends, and
+                    : see `^^interrelated ends$`
+                c) we have reason to value, whether in its own right, or as a condition
+                   of a further end which itself is reasonable.
+                    : see `^^evaluation of ends$`
+            - Justification proceeds in milieux where lines of thought, claims and counter-claims,
+              are defeasible through public exposure.
+            interrelated ends
+                - Where the viability or value of an end is relative to the presence of another end,
+                  the whole network of interrelated ends is evaluated over all its combinations.
+                    - One combination at most is chosen.
+                    - Its ends alone are reasonable.
+            evaluation of ends
+                - Evaluation is based on reason.
+                - Theories of value and evaluative practices are themselves subject
+                  to reasoned evaluation: we employ them only so far as we have reason
+                  to value them based on logic, trial and error, and deliberation.
+
+
+
+    ━━━━━━━━━
+     Warrant
     ─────────
-     warrant
-    ┈┈┈┈┈┈┈┈┈
         / Why pursue HR?
         - HR has incomparable value.
         - No reasonable end E has greater value than HR.
@@ -75,12 +82,12 @@ Humanity in full
         importance of R
             / Why HR, not H alone?
             - R is a limiting condition of the aggregate value that warrants HR, and thereby warrants H.
-                : re `aggregate value that warrants HR` see `^^ warrant$`
+                : re `aggregate value that warrants HR` see `^^ Warrant$`
             - How far we exercise our capacity for reason (°R, the degree of R)
               affects the aggregate value in three ways.
-                i. °R determines how reasonable are the component ends, which in turn
+                i. °R affects justification of the component ends, which in turn
                   determines what they contribute to the aggregate value.
-                    : see `^^- Reasonable ends are those we have reason to value\.$`
+                    : see `^^- An end is reasonable that.+we have reason to value`
                     - Lapses here will tend to lessen the aggregate value of HR
                       by lessening the value of its component ends.
                 ii. °R determines the force of will and fitness of means put to each component end.
@@ -88,7 +95,7 @@ Humanity in full
                     - Lapses here will tend to undermine the aggregate value of HR
                       by threatening the attainment of one or more component ends.
                 iii. °R determines the force of will and fitness of means put to avoiding extinction.
-                    : re `avoiding extinction` see `Humanity extant` @ `^^HR\.$` @ `^^ aim$`
+                    : re `avoiding extinction` see `Humanity extant` @ `^^HR\.$` @ `^^ Aim$`
                     : re `avoiding extinction` see ../diaspora/facing_existential_hazard.brec
                     ∵ The willing of ends and the choosing of means are functions of practical reason.
                     - Lapses here will pose a threat to the aggregate value of HR by risking a premature
