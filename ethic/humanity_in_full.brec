@@ -10,20 +10,24 @@ Humanity in full
         - HR as a final end.
 
             HR. The conjunction of ends H and R.
-            H. Humanity extant through all reasonable ends.
-                - For any reasonable end E that would obtain at time tE,
+            H. Humanity extant through all actual and reasonable ends.
+                - For any actual and reasonable end E that would obtain at time tE,
                   humanity continues to exist through tE.
             R. Full exercise of our capacity for reason.
                 - Here ‘full’ means the maximum that realistically we could sustain at a given time.
 
         - If ever we judge from the high vantage of R that no component end remains to be achieved,
-          then we can infer that HR itself has been achieved.
+          then we can infer that all principal ends have been achieved.
             - We might reasonably allow or seek extinction then, but not before.
             / And if instead we come to judge that our rational nature (or capacity for reason)
               is a final end in its own right, as did Kant, then we will seek to expand it
               and prolong its exercise indefinitely, and so defy extinction.
                 : re `as did Kant` see `^^Kant.+1785.+Groundwork` @ bibliography.brec :
                   ‘… a rational nature [e.g. humanity] exists as an end in itself.’  4:429
+                / Then H would include as a component end — in parallel with the principal end R —
+                  a separate variant of R, which we might call ‘R-ongoing’.
+        actual end
+            - An end that is willed by at least one person.
         principal end
             - One of H, R or HR.
         component end
@@ -36,6 +40,7 @@ Humanity in full
             / Showing whether an end is reasonable.
             - An end is reasonable that:
                 a) is realistic,
+                    : see `^^realistic ends$`
                 b) is not excluded on account of its relation to other ends, and
                     : see `^^interrelated ends$`
                 c) we have reason to value, whether in its own right, or as a condition
@@ -43,6 +48,10 @@ Humanity in full
                     : see `^^evaluation of ends$`
             - Justification proceeds in milieux where lines of thought, claims and counter-claims,
               are defeasible through public exposure.
+            realistic ends
+                - An end is realistic only if it would obtain within the bounds of humanity.
+                    / What would obtain outside the bounds of humanity can be an effect (whether natural
+                      or supernatural) of a realistic end, but it cannot be a realistic end in itself.
             interrelated ends
                 - Where the viability or value of an end is relative to the presence of another end,
                   the whole network of interrelated ends is evaluated over all its combinations.
@@ -74,6 +83,8 @@ Humanity in full
      Supreme value ─ a teleological argument for pursuing HR
     ───────────────
         - HR has supreme value.
+        + Rebase on the value of R and HR outside of H, because already H is effectively given.
+            : privately see notebook:2021-9-10
         - No reasonable end E has greater value than HR.
 
                   vHR ≥ vE
