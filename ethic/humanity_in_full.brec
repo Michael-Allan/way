@@ -11,15 +11,17 @@ Humanity in full
 
             HR. The first conjunction of ends H and R.
                 : re `first conjunction` see `^^- If ever we judge from.+R that no component end remains`
+                - HR comprises H, R and HR proper.
             H. Humanity extant through all actual and reasonable ends.
                 - For any actual and reasonable end E that would obtain at time tE,
                   humanity continues to exist through tE.
+                : re `actual` see `^^H must address ends that are actual$` @ `^^ Notes?$`
             R. Full exercise of our capacity for reason.
                 - Here ‘full’ means the maximum that realistically we could sustain at a given time.
 
         - If ever we judge from the high vantage of R that no component end remains to be achieved,
           then we can infer that all principal ends have been achieved.
-            - We might reasonably allow or seek extinction then, but not before.
+            - We might reasonably risk extinction then, but not before.
             / And if instead we come to judge that our rational nature (or capacity for reason)
               should be a final end in its own right, as did Kant, then we will seek to expand it
               and prolong its exercise indefinitely, and so defy extinction.
@@ -28,11 +30,16 @@ Humanity in full
                 / Then H would include as a component end — in parallel with the principal end R —
                   a separate variant of R, which we might call ‘R-ongoing’.
         actual end
-            - An end that is willed by at least one person.
+            - An end that is willed.
         principal end
             - One of H, R or HR.
         component end
-            - One of the reasonable ends of H exclusive of the principal ends.
+            - An actual and reasonable end that is not a principal end.
+        HR proper
+            - HR is more than the sum of H and R.
+                : see `HR comprises H, R and HR proper` @ `^^HR\.`
+            - HR proper is what HR adds to that sum.
+                : e.g. `^^HR\. The (first conjunction)`
 
 
         ────────────────────
@@ -53,6 +60,7 @@ Humanity in full
                 - An end is realistic only if it would obtain within the bounds of humanity.
                     / What would obtain outside the bounds of humanity can be an effect (whether natural
                       or supernatural) of a realistic end, but it cannot be a realistic end in itself.
+                    - To expect its attainment with no witness to the fact would be unrealistic.
             interrelated ends
                 - Where the viability or value of an end is relative to the presence of another end,
                   the whole network of interrelated ends is evaluated over all its combinations.
@@ -71,7 +79,24 @@ Humanity in full
     ━━━━━━━━━━━━━━━━━━━
      Pragmatic warrant ─ an argument for pursuing HR on the ground of prudence
     ───────────────────
-        + Outline it.
+        HR proper is apodictic
+            ∵ It is reasonable to risk the extinction of that which serves no reasonable end.
+                : re `serves no reasonable end` see `^^- If.+we judge.+that no component end remains`
+            / HR proper concerns nothing else.
+        H is apodictic
+            ∵ Humanity extant is already a necessary condition of any reasonable end.
+                / Making it explicit (as end H) serves only to clarify the definition of HR proper.
+                ∵ A reasonable end is necessarily realistic.
+                    : see `is realistic` @ `^^- An end is reasonable that:$`
+                ∵ To be realistic requires that the end would obtain within the bounds of humanity.
+                    : re `To be realistic.+(obtain.+humanity)` see head @ `^^realistic ends$`
+            : N.B. `^^H must address ends that are actual$` @ `^^ Notes?$`
+        R is prudent, anything short of it posing a threat to H
+            ∵ °R determines the prevalence of will and fitness of means brought to bear on H.
+                ∵ Our choices of ends willed and of means brought to bear on them
+                  are functions of practical reason.
+            ∵ H has yet to be achieved.
+                ∵ We have ends at present which generally are thought to be reasonable.
 
 
 
@@ -117,16 +142,29 @@ Humanity in full
                     : see `^^- An end is reasonable that.+we have reason to value`
                     - Lapses here will tend to lessen the aggregate value of HR
                       by lessening the value of its component ends.
-                ii. °R determines the force of will and fitness of means put to each component end.
+                ii. °R determines the prevalence of will and fitness of means brought to bear
+                   on each component end.
                     ∵ The willing of ends and the choosing of means are functions of practical reason.
                     - Lapses here will tend to undermine the aggregate value of HR
                       by threatening the attainment of one or more component ends.
-                iii. °R determines the force of will and fitness of means put to avoiding extinction.
-                    : re `avoiding extinction` see `Humanity extant` @ `^^HR\.$` @ `^^ Aim$`
-                    : re `avoiding extinction` see ../diaspora/facing_existential_hazard.brec
-                    ∵ The willing of ends and the choosing of means are functions of practical reason.
+                iii. °R determines the prevalence of will and fitness of means brought to bear on H.
+                    : re `°R determines._will.+and.+means brought to.+H` see head @ `^^R is prudent` @
+                      `^^ Pragmatic warrant`
                     - Lapses here will pose a threat to the aggregate value of HR by risking a premature
                       extinction that would cut short the attainment of its component ends.
+
+
+
+    ━━━━━━
+     Note
+    ──────
+        H must address ends that are actual
+            - Else H would no longer be apodictic.
+                : see `^^H is apodictic$`
+                ∵ It would require humanity to exist through ends that nobody wills, a requirement
+                  that could hardly be apodictic on pragmatic and deontic grounds.
+                    : re `pragmatic and deontic grounds` see `^^ Pragmatic warrant$`
+                    : re `pragmatic and deontic grounds` see   `^^ Deontic warrant$`
 
 
 
