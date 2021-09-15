@@ -1,7 +1,7 @@
 Humanity in full
 
     - This file describes a final end in the full realization of humanity — in reason consummate,
-      and achievement complete — and offers pragmatic, deontic and telic grounds for its pursuit.
+      and achievement complete — and argues for its pursuit on the ground of prior duty.
 
 
     ━━━━━
@@ -78,9 +78,9 @@ Humanity in full
 
 
 
-    ━━━━━━━━━━━━━━━━━━━
-     Pragmatic warrant ─ an argument for pursuing HR on the ground of prudence
-    ───────────────────
+    ━━━━━━━━━
+     Warrant ─ an argument for pursuing HR on the ground of prior duty
+    ─────────
         HR proper is apodictic
             ∵ It is reasonable to risk the extinction of that which serves no reasonable end.
                 : re `serves no reasonable end` see `^^- If.+we judge.+that no emanant end remains`
@@ -93,69 +93,7 @@ Humanity in full
                 ∵ To be realistic requires that the end would obtain within the bounds of humanity.
                     : re `To be realistic.+(obtain.+humanity)` see head @ `^^realistic ends$`
             : N.B. `^^H must address ends that are actual$` @ `^^ Notes?$`
-        R is prudent, anything short of it poses a threat to H
-            ∵ °R determines the prevalence of will and fitness of means brought to bear on H.
-                ∵ Our choices of ends willed, and of means brought to bear on them,
-                  are functions of practical reason.
-            ∵ Whether H has been achieved is yet uncertain.
-                - We have ends at present which are generally thought to be reasonable,
-                  and, if not final, aimed at some final end which is yet unkown.
-            ∵ Our competence in judging whether H has been achieved will increase with °R.
-
-
-
-    ━━━━━━━━━━━━━━━━━
-     Deontic warrant ─ an argument for pursuing HR on the ground of prior duty
-    ─────────────────
-        + Outline it.
-
-
-
-    ━━━━━━━━━━━━━━━
-     Telic warrant ─ an argument for pursuing HR on the ground of consequential value
-    ───────────────
-        - HR has supreme value.
-        + Rebase on the value of R and HR proper, because already H is effectively given.
-            : privately see notebook:2021-9-10
-        - No reasonable end E has greater value than HR.
-
-                  vHR ≥ vE
-
-            ∵ vHR is an aggregate that includes vE.
-                ∵ HR includes E.
-                    ∵ E is a reasonable end.
-                    ∵ All reasonable ends are included in HR.
-            ∵ HR excludes all ends of net negative value.
-                / The aggregate worth of other included ends cannot be less than zero.
-                ∵ HR includes only reasonable ends.
-                ∵ No reasonable end N has negative value except where it conditions a further end P
-                  of positive value, such that together they have net positive value.
-
-                          vN + vP > 0
-
-                    + Expand to account for multiple N per P.
-                        / Viz. multiple conditioning ends of negative value per conditioned end.
-        importance of R
-            / Why HR, not H alone?
-            - R is a limiting condition of the aggregate value that warrants HR, and thereby warrants H.
-                : re `aggregate value that warrants HR` see `^^ Warrant$`
-            - How far we exercise our capacity for reason (°R, the degree of R)
-              affects the aggregate value in three ways.
-                i. °R affects justification of the emanant ends, which in turn
-                  determines what they contribute to the aggregate value.
-                    : see `^^- An end is reasonable that.+we have reason to value`
-                    - Lapses here will tend to lessen the aggregate value of HR
-                      by lessening the value of its emanant ends.
-                ii. °R determines the prevalence of will and fitness of means brought to bear
-                   on each emanant end.
-                    ∵ The willing of ends and the choosing of means are functions of practical reason.
-                    - Lapses here will tend to undermine the aggregate value of HR
-                      by threatening the attainment of one or more emanant ends.
-                iii. °R determines the prevalence of will and fitness of means brought to bear on H.
-                    : re `°R determines._will.+and.+means brought to.+H` see head @ `^^R is prudent` @
-                      `^^ Pragmatic warrant`
-                    - Lapses here will pose a threat to the aggregate value of HR by risking a premature
-                      extinction that would cut short the attainment of its emanant ends.
+        + Outline the rest.
 
 
 
