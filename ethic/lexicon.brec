@@ -2,6 +2,10 @@ Definition of moral terms
 
     : see also http://reluk.ca/project/wayic/refractory/index.brec
 
+    C
+        - Consensus on what the cosmic fit implies for normative ethics.
+            : re `onsensus on.+for normative ethics` see head @ cosmic_fit.brec
+            : re `onsensus on.+for normative ethics` see head @ entailed_duty.brec
     counter
         ─ verb, with object \ Temporary: these definitions properly belong in explanatory text.
             - Hinder (form F).
@@ -18,10 +22,10 @@ Definition of moral terms
             - To counter the underlying form of (a right) where it either accompanies no wrong,
               or accompanies a wrong that could instead be countered separately.
                 : re `underlying form` see `form F or G` @ `^^─ adjective$` @ `^^wrong$`
-    moral certainty
-        - A reasonably held belief that one knows exactly what norms are morally binding on one.
-            : see `reasonably held belief.+know.+exactly what norms are morally binding` @
-              `^^M\. Moral certainty` @ entailed_duty.brec
+    M
+        - A reasonably held belief that one knows what norms morally bind one.
+            : re `reasonably held.+bind one` see @ `^^M\. ` @ cosmic_fit.brec
+            : re `reasonably held.+bind one` see @ `^^M\. ` @ entailed_duty.brec
     right
         ─ adjective
             - Promoting forms F and G without being wrong.
