@@ -1,4 +1,4 @@
-Entailed duty
+Duty and desire
 
     - Let moral certainty (M) be defined as follows.
 
@@ -7,18 +7,43 @@ Entailed duty
     - M requires a consensus (C) regarding the cosmic fit.
 
         C. Consensus on what the cosmic fit implies for normative ethics.
-        : see `^^postulate: M requires C` @ cosmic_fit.brec
 
-    - C being presently unattained, however, I know myself to be in a state of moral uncertainty.
-    - I have reason to suspect that one or more norms are morally binding on me, of which I am ignorant.
-    - Therefore I am duty bound to make a best effort at learning what these norms are, if any.
-        - I must take M as my end, and with it C.
+    - C requires a quorum in advance of it.
+
+        H. Humanity extant through to C.
+
+    - Each of us has reason to take M as an end, and with it C and H.
+    - A formal reason is given in the next section, substansive in the section after.
 
 
+    ────────────────
+     formal warrant
+    ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+        - C being unattained at present, I know myself to be in a state of moral uncertainty.
+        - I have reason to suspect that one or more norms are morally binding on me,
+          of which I am ignorant.
+        - Therefore I am duty bound to make a best effort at learning what these norms are, if any.
+            - I must take M as my end.
+        + Warrant C.
+            : see `^^postulate: M requires C` @ cosmic_fit.brec
+        + Warrant H.
+            : see privately `^^end H$` @ `^^duty and desire$` @ action_plan.brec
+        + Address the objection that humanity is a mere premise of C.
+            : see privately `^^positive external duty$` @ `^^duty and desire$` @ action_plan.brec
 
-    H. Humanity extant through to M.
-        - Humanity continues to exist while M is unachieved.
-    R. Rational action toward H and M.
+
+    ─────────────────────
+     substansive warrant
+    ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+        + Find a substansive warrant that aligns with the formal warrant.
+            : join @ `^^duty and desire$` @ action_plan.brec
+            : private
+
+
+    ──────────────────────
+     having what it takes
+    ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+        R. Rational action toward H and M.
 
 
 \ 🅮 This file has been dedicated by its author(s) to the public domain.  To the extent possible
