@@ -4,7 +4,7 @@ Duty and desire apropos of worth
 
         M. A belief that one knows what norms morally bind one.
 
-    - M requires a consensus (C) regarding the cosmic fit.
+    - M requires a prior consensus regarding the cosmic fit.
 
         C. Consensus on what the cosmic fit implies for normative ethics.
 
@@ -13,23 +13,26 @@ Duty and desire apropos of worth
         H. Humanity extant through to C.
 
     - Each of us has reasons to take M as an end, and with it C and H.
-    - A formal reason is given in the next section, material in a later section.
+    - Formal warrant for these ends is given in the next section, material in a later section.
 
 
     ━━━━━━━━━━━━━━━━
      Formal warrant
     ────────────────
-        - C being unattained at present, I know myself to be in a state of moral uncertainty.
-        - I have reason to suspect that one or more norms are morally binding on me,
-          of which I am ignorant.
-        - Therefore I am duty bound to make a best effort at learning what these norms are, if any.
-            - I must take M as my end.
-        + Warrant C.
-            : see `^^postulate: M requires C` @ cosmic_fit.brec
-        + Warrant H.
-            : see `^^end H$` @ `^^duty and desire$` @ action_plan.brec
-        + Address the objection that humanity is a mere premise of C.
-            : see `^^positive external duty$` @ `^^duty and desire$` @ action_plan.brec
+        M
+            - Knowing that C is unattained at present, I am in a state of moral uncertainty.
+            - I have reason to suspect that one or more norms are morally binding on me,
+              of which I am ignorant.
+            - Therefore I am duty bound to make a best effort at learning what these norms are, if any.
+                - I must take M as my end.
+        C
+            + Warrant.
+                : see `^^postulate: M requires C` @ cosmic_fit.brec
+        H
+            + Warrant.
+                : see `^^end H$` @ `^^duty and desire$` @ action_plan.brec
+            + Address the objection that humanity is a mere premise of C.
+                : see `^^positive external duty$` @ `^^duty and desire$` @ action_plan.brec
 
 
 
@@ -67,7 +70,11 @@ Duty and desire apropos of worth
     ━━━━━━━━━━━━━━━━━━━
      Following through
     ───────────────────
-            R. Rational action toward H and M.
+        + Warrant *following through*: why not simply end the ethic here?
+            / Materially to follow through would begin with willing R′ and end with the fact of R′;
+              formally it would begin with formulating R and end with formulating moral precepts.
+
+            R. Rational action toward H, C and M.
 
         + Formulate a postulate to further the ethic.
             + Ground it primarily on similarities of form and function
