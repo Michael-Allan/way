@@ -48,6 +48,19 @@ Duty and desire apropos of worth
                   @ action_plan.brec
                 : see `^^- On the following, thoughts that may help\.$` @ `^^duty and desire$`
                   @ action_plan.brec
+            ! The term ‘default reason’ conflicts with a prior term of art.
+                - Already it is taken to mean a reason that is ‘only defeasible’, viz.
+                  ‘a consideration which is a reason unless something prevents it from being so.’
+                    : re `only defeasible` see http://ceur-ws.org/Vol-2445/paper_6.pdf : general logic
+                    : re `a consideration.+being so` see
+                      https://www-jstor-org.ezproxy.torontopubliclibrary.ca/stable/27504295?seq=2#metadata_info_tab_contents
+                      : ethics
+                + Here name the prior concept a ‘presumptive reason’, a term that also is used.
+                    / So a particular type of default reason.
+                    : re `presumptive reason.+also.+used` see
+                      https://www-jstor-org.ezproxy.torontopubliclibrary.ca/stable/27504295?seq=2#metadata_info_tab_contents
+                      : ethics
+                    + Likewise coin a precise term for the present concept.
         formal vs. material
             + Explain how one warrant concerns a form, the other a matter.
                 : see notebook:2021-10-9b,c
