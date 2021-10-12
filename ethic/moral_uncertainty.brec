@@ -1,24 +1,25 @@
-Duty and desire apropos of worth
+Moral uncertainty
 
     - Let moral certainty (M) be defined as follows.
 
         M. A belief that one knows what norms morally bind one.
 
-    - M requires a prior consensus regarding the cosmic fit.
+    - M requires a prior consensus regarding …
 
-        C. Consensus on what the cosmic fit implies for normative ethics.
+        C. Consensus on …
 
     - C requires a quorum in advance of it.
 
         H. Humanity extant through to C.
 
     - Each of us has reasons to take M as an end, and with it C and H.
-    - Formal warrant for these ends is given in the next section, material in a later section.
+
+        R. Rational action toward H, C and M.
 
 
-    ━━━━━━━━━━━━━━━━
-     Formal warrant
-    ────────────────
+    ─────────
+     warrant
+    ┈┈┈┈┈┈┈┈┈
         M
             - Knowing that C is unattained at present, I am in a state of moral uncertainty.
             - I have reason to suspect that one or more norms are morally binding on me,
@@ -27,75 +28,11 @@ Duty and desire apropos of worth
                 - I must take M as my end.
         C
             + Warrant.
-                : see `^^postulate: M requires C` @ cosmic_fit.brec
         H
             + Warrant.
-                : see `^^end H$` @ `^^duty and desire$` @ action_plan.brec
+                : see `^^end H$` @ `^^Moral argument$` @ action_plan.brec
             + Address the objection that humanity is a mere premise of C.
-                : see `^^positive external duty$` @ `^^duty and desire$` @ action_plan.brec
-
-
-
-    ━━━━━━━━━━━━━━━━━━━━━
-     On the two warrants
-    ─────────────────────
-        : re `two warrants` see `^^ Formal warrant$`
-        : re `two warrants` see `^^ Material warrant$`
-        default reasons
-            + Explain how both warrants are based on default reasons.
-                : see notebook:2021-10-9b
-                : see `^^- Consider a larger question: Why do anything at all\?$` @ `^^duty and desire$`
-                  @ action_plan.brec
-                : see `^^- On the following, thoughts that may help\.$` @ `^^duty and desire$`
-                  @ action_plan.brec
-            ! The term ‘default reason’ conflicts with a prior term of art.
-                - Already it is taken to mean a reason that is ‘only defeasible’, viz.
-                  ‘a consideration which is a reason unless something prevents it from being so.’
-                    : re `only defeasible` see http://ceur-ws.org/Vol-2445/paper_6.pdf : general logic
-                    : re `a consideration.+being so` see
-                      https://www-jstor-org.ezproxy.torontopubliclibrary.ca/stable/27504295?seq=2#metadata_info_tab_contents
-                      : ethics
-                + Here name the prior concept a ‘presumptive reason’, a term that also is used.
-                    / So a particular type of default reason.
-                    : re `presumptive reason.+also.+used` see
-                      https://www-jstor-org.ezproxy.torontopubliclibrary.ca/stable/27504295?seq=2#metadata_info_tab_contents
-                      : ethics
-                    + Likewise coin a precise term for the present concept.
-        formal vs. material
-            + Explain how one warrant concerns a form, the other a matter.
-                : see notebook:2021-10-9b,c
-
-
-
-    ━━━━━━━━━━━━━━━━━━
-     Material warrant
-    ──────────────────
-        + Find a material warrant that aligns with the formal warrant.
-            : join @ `^^duty and desire$` @ action_plan.brec
-            - The heart of this is how the cosmic refuge aligns with our everyday cares
-              and speaks to our need of meaningful basis for them, e.g. a larger purpose.
-                : see `^^- On the following, thoughts that may help\.$` @ `^^duty and desire$`
-                  @ action_plan.brec
-                : see notebook:2021-10-7a,b
-
-
-
-    ━━━━━━━━━━━━━━━━━━━
-     Following through
-    ───────────────────
-        + Warrant *following through*: why not simply end the ethic here?
-            / Materially to follow through would begin with willing R′ and end with the fact of R′;
-              formally it would begin with formulating R and end with formulating moral precepts.
-
-            R. Rational action toward H, C and M.
-
-        + Formulate a postulate to further the ethic.
-            + Ground it primarily on similarities of form and function
-              between a) a normative ethic, and b) the cosmic refuge.
-                : see notebook:2021-10-9a
-                - Both are formal and structural in cradling a thing of value.
-                    : re `formal` see `^^ Formal vs.+material$`
-
+                : see `^^positive external duty$` @ `^^end H$` @ `^^Moral argument$` @ action_plan.brec
 
 
 : private : pending less dependency on my private notes
