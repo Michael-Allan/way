@@ -1,44 +1,63 @@
-Precarious conditions of rational action
+Precarious conditions of reasoning and rational action
 
     + Begin with the notebook’s powerful summary (as it still seems) of the argument.
-        : see notebook:2021-10-13f
+        : see notebook:2021-10-13f,16a,23b
         : see notebook:2021-10-13g : Its utility now escapes me, it may be an orphan
           of later developments.
-        : see notebook:2021-10-16a
-        + In the final sentence that ushers in the succeeding formula of the postulate/premise
-          which in turn ‘gives me entry|access to that society and ethic’, qualify the formula
-          as {being | appearing to be} what *most simply and directly* would do so.
-            : re `succeeding formula` see `^^\+ Formulate a ‘postulate’ or ‘premise`
+        + In the final sentence that ushers what ‘gives me entry|access to that society and ethic’,
+          this is no longer the formula of a postulate/premise, but rather recognition
+          that practical reasoning and rational action are necessary to the bounden ends.
             : re `gives me entry|access` see notebook:2021-10-13f
-            : re `most simply and directly` see `^^\+ Justify it on a principle of parsimony\.$`
-    + Formulate a ‘postulate’ or ‘premise’ to further the ethic.
-        : see `^^\+ Fall back on a further postulate\.$` @ action_plan.brec
-        + Justify it on a principle of parsimony.
-            : see notebook:2021-10-22
-            / I am inspired here by Schneewind’s reading of Grotius, where I detect a similar principle.
-                : cf. `^^Schneewind.+1998.+The invention of autonomy` @ bibliography.brec : Grotius’s
-                  ‘understanding of the depth and imporatance of the problem of maintaining the social
-                  order leads him [in *On the law of war and peace*, 1625] to a new way of understanding
-                  natural law. … while he deplores the present “lack of restraint” in war and the haste
-                  with which men engage in it, he nowhere condemns it as such.  Controversy with war as
-                  the most extreme form is one of the facts of life.  We are self-preserving and
-                  quarrelsome beings; but we are also sociable.  These two aspects of human nature make
-                  the problem of maintaining the social order quite definite.  How are quarrelsome but
-                  socially minded beings like ourselves to live together?  What limits must we place on
-                  our tendency to controversy in order to satisfy our sociable desires?’  p. 72
-            + Make ‘definite’ (as Schneewind says) the problem I am solving with this postulate.
-                | How prevent a state of moral uncertainty undermining the means of escaping that state?
-                    - We are caught in a [kind of] trap.
-                    - On that account, we run a high risk of going extinct long before
-                      we reach the existential refuge afforded by the cosmos.
-            + Tell how the cosmic refuge, *appears* to be an application of the same principle,
-              problem and solution (non-hindrance).
-                - It offers in future a way out of the trap.
-                - It shows in the present, by that example, a way out of the trap.
-                    / As though it were a rope or ladder hanging from above.
-        + Justify it further.
-            : see `^^\+ Fall back on a further postulate\.$` @ action_plan.brec
+            : re `\bR\b` see `^^necessity of rational action.+R`
+    + Claim that practical reasoning and rational action are indispensable to willing *any* end.
+        \ Here ‘rational’ merely follows on the conjunction with reasoning.
+        ∵ Willing an end entails practical reasoning, even if it comprises no more than identifying
+          competing ends and arbitrating one’s limited resources among them.
+        ∵ Willing an end entails action, even if it comprises no more than the act of maintaining
+          a watch to ensure that one need not (at present) act any further.
+            : cf. notebook:2021-9-28b,30g : re attainment of ends by chance alone
+    + Resolve in turn the precarious conditions of practical reasoning and rational action.
+        - Resolve them as those safeguarded and supported by the institutions of contemporary society
+          on one hand, and medieval and early-modern societies on the other.
 
+
+    ────────────────────
+     ends justification
+    ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+        / A condition of practical reasoning and rational action, namely that of justifying one’s ends.
+        - Practical reason demands a justifiable end.
+            / This requires ends justification.
+            + Explain this.
+                : cf. a_deficit_of_reason.brec
+        - One must critically examine one’s ends to ensure that no *unjustifiable* end conflicts
+          with a justifiable one, as that would be contrary to reason.
+            / This requires ends justification.
+            - Such conflict would not be open to arbitration by prudence because an end which is
+              unjustifiable (therefore unreasonable) weighs nothing in the balance against reason.
+        re duty
+            / How ends justification is a condition of the bounden ends in particular.
+            - One must critically examine one’s ends to ensure that no unjustifiable end conflicts
+              with a bounden end, as that would be contrary not only to reason, but to duty.
+                / This requires ends justification.
+                - Such conflict would not be open to arbitration by prudence because an end which is
+                  unjustifiable (therefore unreasonable) weighs nothing in the balance against duty.
+
+
+    ──────────────────
+     personal freedom
+    ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+        / A condition of rational action.
+        + Tell how personal freedom conditions rational action in general.
+        re duty
+            - The bounden ends require freedom in their pursuit, though not necessarily
+              in any other pursuit.
+                - This distinction will prove immaterial, however, when it comes to formulating
+                  the right of freedom.
+                : see @ rights.brec
+
+
+
+: private : pending less dependency on my private notes
 
 \ 🅮 This file has been dedicated by its author(s) to the public domain.  To the extent possible
 \ under law, the author(s) waive all copyright and related or neighbouring rights to this file
