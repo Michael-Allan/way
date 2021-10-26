@@ -1,22 +1,16 @@
-Precarious conditions of reasoning and rational action
+Precarious conditions of rational action
 
     + Begin with the notebook’s powerful summary (as it still seems) of the argument.
-        : see notebook:2021-10-13f,16a,23b
+        : see notebook:2021-10-13f,16a,23b,26b
         : see notebook:2021-10-13g : Its utility now escapes me, it may be an orphan
           of later developments.
         + In the final sentence that ushers what ‘gives me entry|access to that society and ethic’,
           this is no longer the formula of a postulate/premise, but rather recognition
-          that practical reasoning and rational action are necessary to the bounden ends.
-            : re `gives me entry|access` see notebook:2021-10-13f
-            : re `\bR\b` see `^^necessity of rational action.+R`
-    + Claim that practical reasoning and rational action are indispensable to willing *any* end.
-        \ Here ‘rational’ merely follows on the conjunction with reasoning.
-        ∵ Willing an end entails practical reasoning, even if it comprises no more than identifying
-          competing ends and arbitrating one’s limited resources among them.
-        ∵ Willing an end entails action, even if it comprises no more than the act of maintaining
-          a watch to ensure that one need not (at present) act any further.
-            : cf. notebook:2021-9-28b,30g : re attainment of ends by chance alone
-    + Resolve in turn the precarious conditions of practical reasoning and rational action.
+          that rational action is necessary to the bounden ends.
+            : re `gives me entry\|access` see notebook:2021-10-13f
+    + Claim that rational action and its conditions are entailed in willing the bounden ends,
+      and promise to justify this claim shortly.
+    + Resolve the precarious conditions of rational action.
         - Resolve them as those safeguarded and supported by the institutions of contemporary society
           on one hand, and medieval and early-modern societies on the other.
 
@@ -24,36 +18,46 @@ Precarious conditions of reasoning and rational action
     ────────────────────
      ends justification
     ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-        / A condition of practical reasoning and rational action, namely that of justifying one’s ends.
-        - Practical reason demands a justifiable end.
-            / This requires ends justification.
-            + Explain this.
-                : cf. http://reluk.ca/project/waycast/ethic/a_deficit_of_reason.brec
-        - One must critically examine one’s ends to ensure that no *unjustifiable* end conflicts
-          with a justifiable one, as that would be contrary to reason.
-            / This requires ends justification.
-            - Such conflict would not be open to arbitration by prudence because an end which is
-              unjustifiable (therefore unreasonable) weighs nothing in the balance against reason.
-        re duty
-            / How ends justification is a condition of the bounden ends in particular.
-            - One must critically examine one’s ends to ensure that no unjustifiable end conflicts
-              with a bounden end, as that would be contrary not only to reason, but to duty.
+        / A precarious condition of rational action, namely that of justifying one’s ends.
+        necessity: how willing the bounden ends entails a requirement for ends justification
+            - One must critically examine one’s ends to ensure that no unjustifiable (and therefore
+              unreasonable) end conflicts with a bounden end, as that would be contrary to duty.
                 / This requires ends justification.
-                - Such conflict would not be open to arbitration by prudence because an end which is
-                  unjustifiable (therefore unreasonable) weighs nothing in the balance against duty.
+            - Such a conflict would not be open to arbitration by prudence because an unjustifiable end
+              weighs nothing in the balance against duty.
 
 
     ──────────────────
      personal freedom
     ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-        / A condition of rational action.
-        + Tell how personal freedom conditions rational action in general.
-        re duty
-            - The bounden ends require freedom in their pursuit, though not necessarily
-              in any other pursuit.
-                - This distinction will prove immaterial, however, when it comes to formulating
-                  the right of freedom.
-                : see @ rights.brec
+        / A precarious condition of rational action.
+        necessity: how willing the bounden ends entails a requirement for personal freedom
+            - Willing the bounden ends entails prudential action toward those ends,
+              even if that comprises no more than the act of maintaining a watch
+              to ensure that no further action is (at present) called for.
+                : cf. notebook:2021-9-28b,30g : re attainment of ends by chance alone
+                - Our rational nature does not bestow the capacity to plot a determinate course of action
+                  to such distant ends as these.  Necessarily we rely on prudence.
+            - Prudential action requires a degree of personal freedom.
+                / This is self evident.
+                !! How can the necessity of a mere *degree* of personal freedom yield a useful right?
+                    ?+ Might the necessity of prudential action plus the fact that its scope
+                      is proportional to freedom (expanding with freedom) clear a path of right
+                      for any degree of freedom, at least where it is justifiable or not morally wrong?
+                  \ ?+ Might the entitlement of right extend instead to whatever reasonably could
+                  \   (in the event) be entailed in the willing of the bounden ends,
+                  \   as opposed to what necessarily (a priori) is?
+                  \     : cf. notebook:2021-10-25b
+                  \\    - Clearly no, as reasonably that could be anything, even horrific acts.
+                  \ ?+ Might the entitlement of right extend instead to whatever might (in the event)
+                  \   be entailed in the willing of the bounden ends, as opposed to what necessarily
+                  \   (a priori) is?
+                  \     : see notebook:2021-10-25b
+                  \\    - Moot, as we have little capacity to determine a fact of entailment.
+                  \         : see `^^- Our rational nature does not bestow the capacity`
+                  \ | A degree deemable as sufficient for action is necessary for action to proceed.
+                  \\    - Yet that yields only a right of *minimally* sufficient freedom.
+                    + Ensure that any remedial postulate is deferred to precisely where it is wanted.
 
 
 

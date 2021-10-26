@@ -1,19 +1,22 @@
 Rights: moral entitlements, aka human rights
 
-    + Warrant thus: what morality enjoins by duty it entitles by right.
+    - What morality enjoins as a duty it entitles as a right.
         / This is self evident.
-        - As one is bound by duty to will certain ends, one is entitled to will those ends
-          and thereby entitled to the conditions and entailments of willing them.
-            : re `conditions and entailments` see precarious_conditions.brec
+        - Being bound by duty to will certain ends (the bounden ends), one is entitled to will those ends
+          and thereby entitled to all that necessarily attends the willing of them.
+            / Viz. to the conditions and entailments of so willing.
+    - Among the latter, the previous file has identified two conditions of rational action.
+        : re `previous file` see precarious_conditions.brec
+        + Finish this, dealing here *instead* of below (q.v.) with the problem of these conditions
+          being necessary only as regards the bounden ends.
     ends justification
     personal freedom
         - The bounden ends require freedom in their pursuit, though not necessarily in any other pursuit.
-            : see @ precarious_conditions.brec
             - Yet the corresponding right of freedom cannot be constrained to the bounden ends.
                 ∵ A constraint to particular ends would contradict the requirement of ends justification,
                   which by its nature cannot be so constrained.
-                    - Favouring a particular end in the very formulation of right
-                      would be too close to a formal disparagement of other ends.
+                    - Favouring a particular end in the very formulation of right would be too close
+                      to a formal disparagement of other ends, and thereby a violation of right.
                 ∵ A constraint to particular ends would sit too uneasily with the concept of freedom.
                     / It would be like Ford offering ‘a car painted any colour… so long as it is black.’
                         : see https://en.wikisource.org/wiki/My_Life_and_Work/4 : Henry Ford
