@@ -1,29 +1,46 @@
 Rights: moral entitlements, aka human rights
 
-    - What morality enjoins as a duty it entitles as a right.
-        / This is self evident.
-        - Being bound by duty to will certain ends (the bounden ends), one is entitled to will those ends
-          and thereby entitled to all that necessarily attends the willing of them.
-            / Viz. to the conditions and entailments of so willing.
-    - Among the latter, the previous file has identified two conditions of rational action.
-        : re `previous file` see precarious_conditions.brec
-        + Finish this, dealing here *instead* of below (q.v.) with the problem of these conditions
-          being necessary only as regards the bounden ends.
-    ends justification
-    personal freedom
-        - The bounden ends require freedom in their pursuit, though not necessarily in any other pursuit.
-            - Yet the corresponding right of freedom cannot be constrained to the bounden ends.
-                ∵ A constraint to particular ends would contradict the requirement of ends justification,
-                  which by its nature cannot be so constrained.
-                    - Favouring a particular end in the very formulation of right would be too close
-                      to a formal disparagement of other ends, and thereby a violation of right.
-                ∵ A constraint to particular ends would sit too uneasily with the concept of freedom.
-                    / It would be like Ford offering ‘a car painted any colour… so long as it is black.’
-                        : see https://en.wikisource.org/wiki/My_Life_and_Work/4 : Henry Ford
-                          with Samuel Crowther.  Garden City Publishing Company, 1922.
-            - Coherence demands a right of freedom constrained at most by other types of right
-              and the rights of other persons.
+    - Being bound by duty to will certain ends (the bounden ends), one is entitled to will those ends
+      and thereby to all that necessarily attends the willing of them.
+        / Viz. to the conditions and entailments of so willing.
+        - This by the following principle.
 
+            principle: What is enjoined by duty is entitled by right.
+
+    - Willing the bounden ends entails rational action in pursuit of those ends.
+        : see `^^\+ Claim that rational action.+is entailed` @ precarious_conditions.brec
+    - Among the conditions of rational action, two were identified as being at risk
+      and are here formulated as rights.
+        : re `were identified` see precarious_conditions.brec
+        - Duty’s entailment of these conditions is constrained in scope; it entails them only where
+          they apply to rational action toward the bounden ends.
+        - Yet in formulating one’s right to these conditions, no such constraint can be applied.
+            ∵ Singling out the bounden ends alone as worthy of moral sanction would verge on disparaging
+              all other utmost ends, thereby on violating the right of ends justification.
+                : re `violating.+ends justification` see
+                  `^^- A specific violation.+is to.+disparage an utmost end`
+        - For sake of coherence, then, the constraint must be omitted from the formulae of right.
+        - The principle of this omission is:
+
+            principle: Where the bounds of duty fall short of what a clear and coherent formulation of
+              the corresponding right requires, the bounds of the right are extended by the shortfall.
+
+        - Moreover, aside from their constraint to particular ends, the bounds of duty are unclear
+          in their entailment of the conditions of rational action.
+            / Where, when and to what extent is access to these conditions entailed by duty?
+              What degree of freedom, for instance?  What capacity for ends justification?
+            - In any case, the only bounds clearly formulable are those of totally unhindered access.
+            - For sake of clarity, then, the formulae of right entitle one to unhindered access.
+                : see `^^principle: Where the bounds of duty fall short of.+a clear.+formulation`
+
+    ends justification, unhindered
+        - A specific violation of this right is to deride or disparage an utmost end.
+            / This violation is notable in that it does not simultaneously violate the right of freedom.
+
+    personal freedom, unhindered
+
+
+: private : pending less dependency on my private notes
 
 \ 🅮 This file has been dedicated by its author(s) to the public domain.  To the extent possible
 \ under law, the author(s) waive all copyright and related or neighbouring rights to this file
