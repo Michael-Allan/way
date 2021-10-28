@@ -11,9 +11,10 @@ Rights: moral entitlements, aka human rights
         : see `^^\+ Claim that rational action.+is entailed` @ precarious_conditions.brec
     - Among the conditions of rational action, two were identified as being at risk
       and are here formulated as rights.
-        : re `were identified` see precarious_conditions.brec
         - Duty’s entailment of these conditions is constrained in scope; it entails them only where
           they apply to rational action toward the bounden ends.
+            : re `entailment` see `^^necessity$` @ `^^ ends justification$` @ precarious_conditions.brec
+            : re `entailment` see `^^necessity$` @ `^^ personal freedom$` @ precarious_conditions.brec
         - Yet in formulating one’s right to these conditions, no such constraint can be applied.
             ∵ Singling out the bounden ends alone as worthy of moral sanction would verge on disparaging
               all other utmost ends, thereby on violating the right of ends justification.
@@ -28,18 +29,41 @@ Rights: moral entitlements, aka human rights
         - Moreover, aside from their constraint to particular ends, the bounds of duty are unclear
           in their entailment of the conditions of rational action.
             / Where, when and to what extent is access to these conditions entailed by duty?
-              What degree of freedom, for instance?  What capacity for ends justification?
+              What degree of personal freedom, for instance?  What capacity for ends justification?
             - In any case, the only bounds clearly formulable are those of totally unhindered access.
             - For sake of clarity, then, the formulae of right entitle one to unhindered access.
                 : see `^^principle: Where the bounds of duty fall short of.+a clear.+formulation`
 
-    ends justification, unhindered
+
+    ────────────────────
+     ends justification
+    ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+        : cf. @ precarious_conditions.brec
+
+            right: To justify one’s ends.
+
         - A specific violation of this right is to deride or disparage an utmost end.
             / This violation is notable in that it does not simultaneously violate the right of freedom.
 
-    personal freedom, unhindered
-        !! Unhindered freedom is impossible.
-            : see notebook:2021-10-27e,f
+
+    ──────────────────
+     personal freedom
+    ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+        : cf. @ precarious_conditions.brec
+        - Freedoms are inherently prone to conflict, as is their establishment.
+        - The right of unhindered freedom, unencumbered by conflict, is therefore an imperfect one.
+
+            right: (imperfect) Personal freedom.
+
+        - Yet freedom rests on a condition that is not prone to conflict.
+        - It rests on a condition of personal security.
+
+            right: (perfect) The security of one’s person.
+
+        - A formal division of the right into perfect and imperfect halves is necessary
+          for sake of clarity and coherence.
+            : see `^^principle: Where the bounds of duty fall short of.+a clear.+coherent.+formulation`
+
 
 
 : private : pending less dependency on my private notes
