@@ -2,7 +2,7 @@ Definition of moral terms
 
     : see also http://reluk.ca/project/wayic/refractory/index.brec
 
-    counter
+    counter \ This entry is deprectated.
         ─ verb, with object \ Temporary: these definitions properly belong in explanatory text.
             - Hinder (form F).
             - Disparage an instance of (form G).
@@ -13,19 +13,19 @@ Definition of moral terms
             \ Personal as opposed to organizational or group.
     humanity
         - The rational nature of humankind.
-    infringe
+    infringe \ This entry is deprectated.
         ─ verb, with object
             - To counter the underlying form of (a right) where it either accompanies no wrong,
               or accompanies a wrong that could instead be countered separately.
                 : re `underlying form` see `form F or G` @ `^^─ adjective$` @ `^^wrong$`
-    right
+    right \ This entry is deprectated.
         ─ adjective
             - Promoting forms F and G without being wrong.
         ─ count noun
             - A moral entitlement, either *right to G* or *right to F*.
         ─ mass noun
             - That which is right.
-    rightful
+    rightful \ This entry is deprectated.
         ─ adjective
             - Morally entitled according to a right.
     right to F
@@ -35,7 +35,7 @@ Definition of moral terms
         ─ noun
             - A moral entitlement to respect in orienting to one’s endmost goal,
               if thereby one does no wrong.
-    wrong
+    wrong \ This entry is deprectated.
         ─ adjective
             - Countering form F or G where it either accompanies no wrong, or accompanies a wrong
               that could instead be countered separately.
@@ -44,7 +44,7 @@ Definition of moral terms
             - A thing which is wrong.
         ─ mass noun
             - That which is wrong.
-    wrongful
+    wrongful \ This entry is deprectated.
         ─ adjective
             : join @ `^^wrong$`
 
