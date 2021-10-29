@@ -7,12 +7,17 @@ Rights: moral entitlements, aka human rights
 
             principle: What is enjoined by duty is entitled by right.
 
-    - Willing the bounden ends entails rational action in pursuit of those ends.
-        : see `^^\+ Claim that rational action.+is entailed` @ precarious_conditions.brec
-    - Among the conditions of rational action, two were identified as being at risk
-      and are here formulated as rights.
-        - Duty’s entailment of these conditions is constrained in scope; it entails them only where
-          they apply to rational action toward the bounden ends.
+    - Willing the bounden ends entails rational action directed to those ends,
+      and thereby entails the conditions of that action.
+        : re `entails rational action` see `^^- Willing the bounden ends entails rational action` @
+          precarious_conditions.brec
+        - Among these conditions, two were identified as being at risk and are here formulated as rights.
+            : see `^^ ends justification$`
+            : see `^^ personal freedom$`
+
+    boundary translations: scope of duty → scope of rights
+        - Duty’s entailment of the conditions of rational action is constrained in scope; it entails them
+          only where they apply to practical reasoning and rational action in regard to the bounden ends.
             : re `entailment` see `^^necessity$` @ `^^ ends justification$` @ precarious_conditions.brec
             : re `entailment` see `^^necessity$` @ `^^ personal freedom$` @ precarious_conditions.brec
         - Yet in formulating one’s right to these conditions, no such constraint can be applied.
@@ -23,16 +28,16 @@ Rights: moral entitlements, aka human rights
         - For sake of coherence, then, the constraint must be omitted from the formulae of right.
         - The principle of this omission is:
 
-            principle: Where the bounds of duty fall short of what a clear and coherent formulation of
-              the corresponding right requires, the bounds of the right are extended by the shortfall.
+            principle: Where the scope of duty falls short of what a clear and coherent formulation of
+              the corresponding right requires, the scope of the right is extended by the shortfall.
 
         - Moreover, aside from their constraint to particular ends, the bounds of duty are unclear
-          in their entailment of the conditions of rational action.
+          in its entailment of the conditions of rational action.
             / Where, when and to what extent is access to these conditions entailed by duty?
               What degree of personal freedom, for instance?  What capacity for ends justification?
-            - In any case, the only bounds clearly formulable are those of totally unhindered access.
-            - For sake of clarity, then, the formulae of right entitle one to unhindered access.
-                : see `^^principle: Where the bounds of duty fall short of.+a clear.+formulation`
+            - In any case, the only bounds clearly formulable are the maximum ones.
+            - For sake of clarity, then, the formulae of right entitle one to unrestricted access.
+                : see `^^principle: Where the scope of duty falls short of.+a clear.+formulation`
 
 
     ────────────────────
@@ -40,7 +45,7 @@ Rights: moral entitlements, aka human rights
     ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
         : cf. @ precarious_conditions.brec
 
-            right: To justify one’s ends.
+            right: (perfect) To justify one’s ends.
 
         - A specific violation of this right is to deride or disparage an utmost end.
             / This violation is notable in that it does not simultaneously violate the right of freedom.
@@ -60,9 +65,9 @@ Rights: moral entitlements, aka human rights
 
             right: (perfect) The security of one’s person.
 
-        - A formal division of the right into perfect and imperfect halves is necessary
+        - Formal division of the right into perfect and imperfect halves is necessary
           for sake of clarity and coherence.
-            : see `^^principle: Where the bounds of duty fall short of.+a clear.+coherent.+formulation`
+            : see `^^principle: Where the scope of duty falls short of.+a clear.+coherent.+formulation`
 
 
 
