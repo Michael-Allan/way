@@ -1,19 +1,22 @@
 Rights: moral entitlements, aka human rights
 
+    - What is enjoined by duty is entitled by right.
     - Being bound by duty to will certain ends (the bounden ends), one is entitled to will those ends
       and thereby to all that necessarily attends the willing of them.
         / Viz. to the conditions and entailments of so willing.
-        - This by the following principle.
 
-            principle: What is enjoined by duty is entitled by right.
+        principle: What is enjoined by duty is entitled by right.
 
     - Willing the bounden ends entails rational action directed to those ends,
-      and thereby entails the conditions of that action.
+      and with it the conditions of that action.
         : re `entails rational action` see `^^- Willing the bounden ends entails rational action` @
           precarious_conditions.brec
-        - Among these conditions, two were identified as being at risk and are here formulated as rights.
-            : see `^^ ends justification$`
-            : see `^^ personal freedom$`
+    - Among the conditions of that action, two were identified as being at risk.
+        : see `^^ ends justification$` @ precarious_conditions.brec
+        : see `^^ personal freedom$` @ precarious_conditions.brec
+    - By the principle above, they are here formulated as rights.
+        : see `^^ ends justification$`
+        : see `^^ personal freedom$`
 
     boundary translations: scope of duty → scope of rights
         - Duty’s entailment of the conditions of rational action is constrained in scope; it entails them
@@ -68,7 +71,7 @@ Rights: moral entitlements, aka human rights
                 : re `as does practical reason` see `^^H\..+of humankind extant` @
                   http://reluk.ca/project/waycast/ethic/a_deficit_of_reason.brec
             - Societal support for it would help to bridge the gap between what nature has bestowed
-              and the cosmos at large promises.
+              and the macrocosm promises.
                 : re `gap` see `If you have what it takes to reach me` @
                   http://reluk.ca/project/waycast/ethic/a_deficit_of_reason.brec
                 : re `promises` see `I will give you time and space unbounded in which to carry on`
@@ -78,7 +81,14 @@ Rights: moral entitlements, aka human rights
         b) Why expect that a right of ends justification could be established in modern democracies?
             + Claim widespread, unmet demand in society for ends justification.
                 : e.g. `^^- There exists in society widespread, unmet demand` @ ../wayic/premise.brec
+                - Here I might cite my own experience (or simply affirm) that asking for a person’s goal
+                  in a particular context (where do you see this taking you? to what end?) generally
+                  meets with interest and a sincere desire to answer, evincing a basic need.
             + Claim the feasibility of instituting affordances in contempory society.
+                : re `instituting` cf. http://www.jstor.org.ezproxy.torontopubliclibrary.ca/stable/pdf/43694783.pdf :
+                  The institutional defined as ‘the means and operations through which social interaction
+                  is molded to stable and binding forms or patterns that recur across societal fields and
+                  contexts.’  Theory and Society, Vol. 42, No. 4 (July 2013), pp. 395-421.
             + Claim that meeting the demand for ends justification (widespread as it is)
               through such affordances might suffice to establish it as a right.
                 : re `meeting the demand.*\R.*through such affordances` see e.g. ../wayic/
