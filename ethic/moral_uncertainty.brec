@@ -1,69 +1,60 @@
 Moral uncertainty
 
-    + Claim the fact of moral uncertainty.
+    + Claim the fact of moral dissensus.
         : see notebook:2021-10-17a,26c,27b,29a
-    + Formulate the principle that (given moral uncertainty) binds the will to M.
-        : re `Formulate` see e.g. `^^principle: What is enjoined by duty is entitled by` @ rights.brec
+    - Aware of this moral dissensus, I am in a state of moral uncertainty.
+    - I have reason to suspect that without my knowledge one or more norms are morally binding on me.
+    - Therefore I am duty bound to make a best effort at learning what those norms are.
+        : cf. `^^- Absent such an end, I am rationally bound to go in search of it` @
+          http://reluk.ca/project/waycast/ethic/a_deficit_of_reason.brec : Another instance
+          of a binding default norm triggered by one’s awareness of normative ignorance.
 
+        principle: In suspecting that one is morally bound by a norm of which one is ignorant, one is
+          morally bound to a best effort at learning what that norm is and whether indeed it binds.
 
-    - Let moral certainty (M) be defined as follows.
+            + Consider quoting or otherwise referring (for comparison) to Spinoza’s claim
+              that moral norms are artifacts of our ignorance, our incompleteness.
+                : see `^^Schneewind.+1998.+The invention of autonomy` @ bibliography.brec : p. 217.2
 
-        M. Knowledge of what norms morally bind one.
+    - On this principle, I must take M as my end.
+        : cf. `I must take W as my end\.$` @
+          http://reluk.ca/project/waycast/ethic/a_deficit_of_reason.brec :
+          How M relates to W is unknown at present.  I must take both as my ends.
 
-    - M requires a prior consensus regarding …
+        M. Knowledge of what norms morally bind me.
 
-        C. A stable consensus on …
+    - Only a consensus could validate such knowledge.
 
-            - C refers exclusively to norms which are not premised on moral uncertainty.
-                / Consensus on a default ethic would not suffice here.
+        C. A stable consensus on what norms morally bind one.
 
-    - C requires a quorum in advance of it.
+        - C refers exclusively to norms not premised on moral uncertainty.
+            / A consensus on the present ethic, for example, would not suffice.
+
+    - A consensus requires a quorum in advance of it.
 
         H. The rational nature of humankind extant through to C.
 
-    - Each of us has reason to take M as an end, and with it C and H.
+    + Address the objection that our existence is a mere premise of C.
+        : see notebook:2021-9-27c,d,e
+        - A critical objection to H is that our existence is a *premise* for any end E,
+          as opposed to a *necessary condition*.
+        - This I will defeat by what the macrocosmic fit suggests.
+            : see notebook:2021-10-2f,g
+            - It would be unreasonable to assume that our moral obligations (including M)
+              are owed to each other or each other alone.  We have reason to suspect
+                a) a positive obligation for action on my part
+                    !! How could I act after I am dead?
+                b) in regard to (or owed to) someone or something else.
+            - In sum, the macrocosmic fit gives a (default) reason for us to exist
+              in the first place.
+            - So M cannot be assumed as relative to us; the critic’s implication that M
+              merely serves *us* is shown to be unwarranted.
+        !! How can H possibly hold against this objection?  How can the principle that grounds C
+          possibly warrant H beyond my life span?
+            | A postulate might be warranted by the macrocosmic fit.
+            | Practical reason unravels should our extinction be foretold.
+    ∴ I have reason to take M as my end, and with it C and H.
 
-
-    ─────────
-     warrant
-    ┈┈┈┈┈┈┈┈┈
-        M
-            - Knowing that C is unattained at present, I am in a state of moral uncertainty.
-            - I have reason to suspect that one or more norms are morally binding on me,
-              of which I am ignorant.
-            - Therefore I am duty bound to make a best effort at learning what these norms are, if any.
-                : cf. `^^- Absent such an end, I am rationally bound to go in search of it` @
-                  http://reluk.ca/project/waycast/ethic/a_deficit_of_reason.brec : Another instance
-                  of a binding default norm triggered by the awareness of normative ignorance.
-                - I must take M as my end.
-                    : cf. `I must take W as my end\.$` @
-                      http://reluk.ca/project/waycast/ethic/a_deficit_of_reason.brec :
-                      How M relates to W is unknown at present.  I must take both as my ends.
-        C
-            + First consider the warrant for H *regardless of C* and whether (in that light)
-              formulation of the latter is even called for.
-                : join
-            - Consensus is warranted as a (default, defeasible) criterion or test of truth or knowledge.
-        H
-            : see notebook:2021-9-27c,d,e
-            + First consider the warrant for H *regardless of C* and whether (in that light)
-              formulation of the latter is even called for.
-                : join
-                - Bear in mind that the M-condition of one’s own existence is unlikely to warrant
-                  expansion to H.
-            + Address the objection that our existence is a mere premise of C.
-                - A critical objection to H is that our existence is a *premise* for any end E,
-                  as opposed to a *necessary condition*.
-                - This I will defeat by what the macrocosmic fit suggests.
-                    : see notebook:2021-10-2f,g
-                    - It would be unreasonable to assume that our moral obligations (including M)
-                      are owed to each other or each other alone.  We have reason to suspect
-                        a) a positive obligation for action on my part
-                        b) in regard to (or owed to) someone or something else.
-                    - In sum, the macrocosmic fit gives a (default) reason for us to exist
-                      in the first place.
-                    - So M cannot be assumed as relative to us; the critic’s implication that M
-                      merely serves *us* is shown to be unwarranted.
 
 
 : private : pending less dependency on my private notes
