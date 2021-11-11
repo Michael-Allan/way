@@ -21,8 +21,8 @@ Rights
     boundary translations: scope of duty → scope of rights
         - Duty’s entailment of the conditions of rational action is constrained in scope; it entails them
           only where they apply to practical reasoning and rational action in regard to the bounden ends.
-            : re `entailment` see `^^necessity$` @ `^^ ends justification$` @ precarious_conditions.brec
-            : re `entailment` see `^^necessity$` @ `^^ personal freedom$` @ precarious_conditions.brec
+            : re `entailment` see `^^ ends justification$` @ precarious_conditions.brec
+            : re `entailment` see `^^ personal freedom$` @ precarious_conditions.brec
         - Yet in formulating one’s right to these conditions, no such constraint can be applied.
             ∵ Singling out the bounden ends alone as worthy of moral sanction would verge on disparaging
               all other utmost ends, thereby on violating the right of ends justification.
@@ -65,9 +65,10 @@ Rights
             / There the right of freedom is already established.
         a) Why uphold these rights?
             - Nature has equipped us to carry on and continues to urge that we do.
-            - Duty enjoins it.
-                : see `^^- One must keep oneself going` @ precarious_conditions.brec
-                : see `^^H\..+of humankind extant` @ moral_uncertainty.brec
+            - Duty enjoins it, as does practical reason.
+                : re `Duty enjoins it` see `^^- One must keep oneself going` @ precarious_conditions.brec
+                : re `as does practical reason` see `^^H\..+of humankind extant` @
+                  http://reluk.ca/project/waycast/ethic/a_deficit_of_reason.brec
             - Societal support for it would help to bridge the gap between what nature has bestowed
               and the macrocosm promises.
                 : re `gap` see `If you have what it takes to reach me` @
@@ -83,13 +84,14 @@ Rights
                   in a particular context (where do you see this taking you? to what end?) generally
                   meets with interest and a sincere desire to answer, evincing a basic need.
             + Claim the feasibility of instituting affordances in contempory society.
-                : re `instituting` cf. http://www.jstor.org.ezproxy.torontopubliclibrary.ca/stable/pdf/43694783.pdf :
+                : privately re `instituting` cf.
+                  http://www.jstor.org.ezproxy.torontopubliclibrary.ca/stable/pdf/43694783.pdf :
                   The institutional defined as ‘the means and operations through which social interaction
-                  is molded to stable and binding forms or patterns that recur across societal fields and
-                  contexts.’  Theory and Society, Vol. 42, No. 4 (July 2013), pp. 395-421.
+                  is molded to stable and binding forms or patterns that recur across societal fields
+                  and contexts.’  Theory and Society, Vol. 42, No. 4 (July 2013), pp. 395-421.
             + Claim that meeting the demand for ends justification (widespread as it is)
               through such affordances might suffice to establish it as a right.
-                : re `meeting the demand.*\R.*through such affordances` see e.g. ../wayic/
+                : re `meeting the demand.*\R.*through such affordances` see e.g. ../wayic/ : as one such
 
 
     ────────────────────
