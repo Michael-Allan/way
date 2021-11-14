@@ -10,16 +10,16 @@ Rights
     - Willing the bounden ends entails the conditions of rational action,
       among which two were identified as being at risk.
         : see `^^ ends justification$` @ `^^entailment by duty$` @ precarious_conditions.brec
-        : see `^^ personal freedom$`   @ `^^entailment by duty$` @ precarious_conditions.brec
+        : see `^^ freedom of action$`   @ `^^entailment by duty$` @ precarious_conditions.brec
     - By the principle above, they are here formulated as rights.
         : see `^^ ends justification$`
-        : see `^^ personal freedom$`
+        : see `^^ freedom of action$`
 
     boundary translations: scope of duty → scope of rights
         - Duty’s entailment of the conditions of rational action is constrained in scope; it entails them
           only where they apply to practical reasoning and rational action in regard to the bounden ends.
             : re `entailment` see `^^ ends justification$` @ precarious_conditions.brec
-            : re `entailment` see `^^ personal freedom$` @ precarious_conditions.brec
+            : re `entailment` see `^^ freedom of action$` @ precarious_conditions.brec
         - Yet in formulating one’s right to these conditions, no such constraint can be applied.
             ∵ Singling out the bounden ends alone as worthy of moral sanction would verge on disparaging
               all other utmost ends, thereby on violating the right of ends justification.
@@ -34,7 +34,7 @@ Rights
         - Moreover, aside from their constraint to particular ends, the bounds of duty are unclear
           in its entailment of the conditions of rational action.
             / Where, when and to what extent is access to these conditions entailed by duty?
-              What degree of personal freedom, for instance?  What capacity for ends justification?
+              What degree of freedom of action, for instance?  What capacity for ends justification?
             - In any case, the only bounds clearly formulable are the maximum ones.
             - For sake of clarity, then, the formulae of right entitle one to unrestricted access.
                 : see `^^principle: Where the scope of duty falls short of.+a clear.+formulation`
@@ -93,25 +93,27 @@ Rights
     ────────────────────
      ends justification
     ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-        : cf. @ precarious_conditions.brec
+        : cf. @ `^^ inference of conditions$` @ precarious_conditions.brec
 
             right: (perfect) To justify one’s ends.
 
         - A specific violation of this right is to deride or disparage an utmost end.
             / This violation is notable in that it does not simultaneously violate the right of freedom.
+            ?+ Should this violation be expanded to cover particular justifications?
+                / E.g. appending ‘… or a particular justification of an end’.
 
 
-    ──────────────────
-     personal freedom
-    ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-        : cf. @ precarious_conditions.brec
-        - Personal freedom is inherently prone to interpersonal conflict.
+    ───────────────────
+     freedom of action
+    ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+        : cf. @ `^^ inference of conditions$` @ precarious_conditions.brec
+        - Freedom of action is inherently prone to interpersonal conflict.
             - Often one’s freedom comes at the expense of others.
             / Take for instance the free use of land, shelter or possessions,
               or the freedoms conferred by title of office.
-        - Therefore the right of *unrestricted* personal freedom is imperfect.
+        - Therefore the right of *unrestricted* freedom of action is imperfect.
 
-            right: (imperfect) Personal freedom.
+            right: (imperfect) Freedom of action.
 
         - Yet freedom rests on a condition of personal security, a condition *not* prone to conflict,
           which therefore is entitled as a perfect right.
