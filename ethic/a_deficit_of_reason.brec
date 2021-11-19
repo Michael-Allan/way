@@ -4,11 +4,11 @@ A deficit of reason
       but leaves me without a sense of purpose.
     - My enduring desire is a clear, sure sense of purpose, and I formulate what would satisfy it.
 
-        W. Knowledge of a thing worthy in its own right, which I might take as an end.
+        W. Knowledge of a thing worthy in its own right (X), which I might take as an end.
 
-    - Taken as such, it would be an end of which I need no longer ask, ‘To what end?’
-      Alone it would suffice.  Its value being contingent on no other end,
-      I would devote my efforts to it and pursue it for its own sake.
+    - Taken as such, X would be an end of which I need not ask, ‘To what end?’  Alone it would suffice.
+      Its value being contingent on no other end, I would devote my efforts to it and pursue it
+      for its own sake.
         - This would satisfy my desire.
     - I explain my desire in this way because I have come to understand it as the felt need
       for a secure hold on reason.
@@ -16,13 +16,15 @@ A deficit of reason
         principle: Reason in its practical use requires, as the ground of all merely contingent ends,
           an end of absolute worth.
 
-    - Having no knowledge of such an end, I am rationally bound to go in search of it —
-      I must take W as my end.
+    - Having no knowledge of such an end — cognizant of nothing that would qualify, no X —
+      I am rationally bound to go in search of that knowledge.  I must take W as my end.
         : cf. `^^- Therefore.+bound to.+a best effort at learning what those norms are` @
           moral_uncertainty.brec : Another instance of a binding default norm
           triggered by one’s awareness of normative ignorance.
         : cf. `I must take M as my end\.$` @ moral_uncertainty.brec :
           How W relates to M is unknown at present.  I must take both as my ends.
+        - So a deficit of reason (having no X as an end) gives rise to my desire for a sense of purpose,
+          and I can satisfy it only through W.
     - W refers to what is commonly called ‘the purpose of life’ or ‘the meaning of life’.
         - These familiar phrases remind me I am not alone in desiring knowledge of it,
           and frequently it is a byword for the unknowable, the unattainable.
@@ -50,22 +52,13 @@ A deficit of reason
 
         ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈
 
-    - Seeing a way foward and being moved to take it is what finally enables me to give form
-      to the search in which I am engaged.
-    - Hitherto, I was not so much moved to the pursuit of an end as pushed about aimlessly for lack
-      of knowledge of an end worth pursuing; whereas now, in light of what the clear night reveals,
-      I have enough knowledge to formulate both my desired end and the necessary means to it.
+    + Explain that being moved by the means to an unknown end, I formulate that end sight unseen.
+        … in light of what the clear night reveals …
+        … seeing a way foward and being moved to take it helps give form to the search
+          in which I am engaged …
+        … the end that reason demands …
 
 
-
-        ! Incoherent: I still lack knowledge of X.
-            - It is merely an abstract end on which I hang the revealed means.
-            + Sort this out.
-            : cf. `^^\+.+state that W is still necessary, and with it C`
-
-
-
-    - That end is simply the one which reason demands:
 
         X. A thing worthy in its own right, an absolute good.
 
@@ -91,14 +84,24 @@ A deficit of reason
                   is enough to warrant treating it as such.
                 !! Reason binds me only to my *own* knowledge.
                     : cf `^^- No, duty binds me to my \*own\* moral certainty` @ notepad.brec
-                    | Yet this file serves the purpose of motivation alone,
-                      and the argument it gives for motivation remains strong.
-                    | Yet its deficit, and the desire for purpose, and nightfall’s revelation,
-                      together move me to at least *hypothesize* an absolute good,
-                      while still acknowledging the need of W to validate it.
-                        - And the end must be commensurate with the means that move me;
-                          I could never accept a lesser one.
-                    go with one of these+ reworking the conclusion
+                    - Wrong, there is no such thing as my *own* knowledge.
+                        crucial+
+                        - Always knowledge (for us) depends on consensus and therefore exists
+                          beyond any single one of us.
+                        + Warrant H through C, as before.
+                            - Whether or not they are necessary to X, they are necessary to W,
+                              and it is to W I am bound by reason.
+                        / I doubt that reason can steer me wrong.  Even if it turns out that the only
+                          absolute good is one subjective and personally bound (e.g. pleasure),
+                          then still I commit no error in pursuing C and H as reason bids.
+                  \ | Yet this file serves the purpose of motivation alone,
+                  \   and the argument it gives for motivation remains strong.
+                  \ | Yet its deficit, and the desire for purpose, and nightfall’s revelation,
+                  \   together move me to at least *hypothesize* an absolute good,
+                  \   while still acknowledging the need of W to validate it.
+                  \     - And the end must be commensurate with the means that move me;
+                  \       I could never accept a lesser one.
+                  \ go with one of these+ reworking the conclusion
         + Infer the consequences of such an X.
             - I could only guess as to what it consists in.
                 - For knowledge requires a consensus to validate it.
@@ -140,8 +143,14 @@ A deficit of reason
     + Tell how I look to the night sky for reassurance about the means (H).
     + Tell how sometimes it is not enough: I want reassurance about the end, too.
         - Then it is silent, and once again I feel the same old need.
+        - I do have a sense of purpose, but only a default purpose;
+          it is clear enough to satisfy my desire, but not sure enough.
     + Use this to state that W is still necessary, and with it C.
         : see e.g. ._/a_deficit_of_reason_boneyard.brec
+        + Clarify W (of X).
+            - It must suffice to know whether X is attained or (if X is a state to be held) maintained.
+            - If no X is knowable (none exists, or all are unknowable) then no hold on reason
+              can be secured.
         + State in the second file the principle that warrants C, and refer to it from here.
             : cf. `^^\+ State in the second file the principle behind this requirement`
     + Use this to introduce my hypothesis (or candidate) for W/C.
