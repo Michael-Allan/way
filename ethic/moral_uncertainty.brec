@@ -23,16 +23,51 @@ Moral uncertainty: the ground of right
 
         M. Knowledge of what norms morally bind me.
 
-            + Clarify here (at least in a comment) that the formal conclusion of the ethic (in rights)
-              depends on the premise of M alone, exlusive of the other ends which follow.
-    - Only a consensus could validate such knowledge.
+            + Clarify (at least in a comment) that the premise of M alone, or any bounden end at all,
+              suffices to infer the rights with which the ethic concludes.
+    - Only a stable consensus can validate knowledge.
 
         C. A stable consensus on what norms morally bind one.
 
+        + Warrant this claim.
+            : join @ `^^- Only.consensus can validate knowledge` @
+              http://reluk.ca/project/waycast/ethic/a_failure_of_reason.brec
+            - Warrant by principle and/or argument.
         - C refers exclusively to norms not premised on moral uncertainty.
             / A consensus on the present ethic, for example, would not suffice.
 
-    ∴ Duty binds me to take M as my end, and with it C.
+    - A stable consensus, and thereby knowledge, requires a sustained quorum.
+
+        H. The rational macrocommunity of humankind extant through C to M.
+
+            + Define the ‘rational macrocommunity of humankind’.
+                : join @ `^^H\. ` @ http://reluk.ca/project/waycast/ethic/a_failure_of_reason.brec
+
+    + Address the objection that, for any end E, our existence is a mere *premise*
+      as opposed to a *necessary condition*.
+        : cf. @ ._/moral_uncertainty_boneyard.brec
+        - That objection (which I only imagine) is off the mark: H refers to our ongoing existence
+          given that *already* we exist.
+        - Duty binds me to seek moral certainty, but that moral certainty cannot just be my own,
+          as knowledge cannot just be my own.
+            : see `^^- Only a stable consensus can validate knowledge`
+            : cf. notebook:2021-9-27c,d,e
+            - Always knowledge (for us) depends on consensus and therefore exists
+              beyond any single one of us.
+            + Ensure the principle that warrants M is stated in terms of knowledge,
+              e.g a duty to attain knowledge of the norm and whether it binds.
+                : see `^^principle:.+suspecting.+ one is morally bound by a norm`
+        + Nothing in the principle that warrants M entitles one (in a state of moral uncertainty)
+          to presuppose what an unknown norm consists in, or to whom (or what) it is owed,
+          and then excuse oneself from duty on that basis.
+            : re `principle that warrants M` see `^^principle:.+suspecting.+ one is morally bound`
+            / The norm itself might very well entail a concern for our ongoing existence.
+        + Ensure to state that M must serve an end of absolute worth (say N).
+            / Regardless of whether this is useful in countering the objection or otherwise warranting H.
+            - Whether N and X would be identical, or [otherwise] how they would relate [to each other],
+              is unknown to us.
+
+    ∴ Duty binds me to take M as my end, and with it C and H.
 
 
 
