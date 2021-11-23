@@ -5,9 +5,9 @@ Moral uncertainty: the ground of right
     - Aware of this moral dissensus, I am in a state of moral uncertainty.
     - I have reason to suspect that without my knowledge one or more norms are morally binding on me.
     - Therefore I am duty bound to make a best effort at learning what those norms are.
-        : cf. `^^- Absent such an end, I am rationally bound to go in search of it` @
-          http://reluk.ca/project/waycast/ethic/axiologic_uncertainty.brec : Another instance
-          of a binding default norm triggered by one’s awareness of normative ignorance.
+        : cf. `^^- Having no knowledge.+\R.+I am rationally bound to go in search of that knowledge` @
+          http://reluk.ca/project/waycast/ethic/axiologic_uncertainty.brec : Another instance of a
+          binding default norm triggered by one’s awareness of normative ignorance.
 
         principle: Having reason to suspect that one is morally bound by a norm without one’s knowledge,
           one is morally bound to seek knowledge of that norm and whether indeed it binds.
@@ -16,23 +16,20 @@ Moral uncertainty: the ground of right
               that moral norms are artifacts of our ignorance, our incompleteness.
                 : see `^^Schneewind.+1998.+The invention of autonomy` @ bibliography.brec : p. 217.2
     - On this principle, I must take M as my end.
-        : cf. `I must take W as my end\.$` @
-          http://reluk.ca/project/waycast/ethic/axiologic_uncertainty.brec :
-          How M relates to W is unknown at present.  I must take both as my ends.
 
-        M. Knowledge of what norms morally bind me.
+        M. Knowledge of what norms morally bind one.
 
             + Clarify (at least in a comment) that the premise of M alone, or any bounden end at all,
               suffices to infer the rights with which the ethic concludes.
             + Ensure to state (somewhere) that M must serve an end of absolute worth, else serve W.
-                - Our moral obligations cannot run afoul of reason.
+                / Our moral obligations cannot run afoul of reason.
     - Only a stable consensus can validate knowledge on a topic that lies open to controversy.
         : re `open to controversy` see `^^\+ Claim the fact of moral dissensus`
 
         C. A stable consensus on what norms morally bind one.
 
         + Warrant this claim.
-            : join @ `^^- Only.consensus can validate knowledge` @
+            : join @ `^^- Only.+consensus can validate` @
               http://reluk.ca/project/waycast/ethic/axiologic_uncertainty.brec
             - Warrant by principle and/or argument.
         - C refers exclusively to norms not premised on moral uncertainty.
@@ -45,11 +42,11 @@ Moral uncertainty: the ground of right
                 : join @ `^^H\. ` @ http://reluk.ca/project/waycast/ethic/axiologic_uncertainty.brec
     - In binding me to an end (M) that is necessarily collective (C), duty has bound me
       to the interim maintenance (H) of the collective itself.
-    - Short of these ends, no alternatives exist within moral bounds.
-        : cf. `no alternatives exist within the bounds of reason\.$` @
+    - Short of M, no alternative exists within moral bounds.
+        : cf. `no alternative exists within the bounds of reason\.$` @
           http://reluk.ca/project/waycast/ethic/axiologic_uncertainty.brec
         - M is unlikely to be attained in my own time.  But even if I judged it unattainable,
-          still duty would bind my will to it, and thereby to C and H.
+          duty would nonetheless bind my will to it, and thereby to C and H.
         - Nothing in the principle that warrants M entitles me (in a state of moral uncertainty)
           to presuppose what an unknown norm consists in, or to whom (or what) it is owed,
           and then excuse myself from duty’s entailments on that basis.

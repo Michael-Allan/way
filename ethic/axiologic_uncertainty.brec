@@ -1,8 +1,8 @@
-A failure of reason: the ground of motivation
+Axiologic uncertainty: the ground of motivation
 
     - The society in which I live safeguards my freedom through its institutions,
-      but leaves me without a sense of purpose.
-    - My enduring desire is a clear, sure sense of purpose, and I formulate what would satisfy it.
+      but leaves me unsupported in the rational use of it.
+    - A worthwhile cause to pursue has been my enduring desire, and I formulate what would satisfy it.
 
         W. Knowledge of a thing worthy in its own right (X), which I might take as an end.
 
@@ -14,20 +14,19 @@ A failure of reason: the ground of motivation
       for a secure hold on reason.
 
         principle: Reason in its practical use requires, as the ground of all merely contingent ends,
-          an end of absolute worth.
+          an end which is either (X) an absolute good, worthy in its own right;
+          or (W) knowledge of such an absolute good.
 
-    - Having no knowledge of such an end — cognizant of nothing that would qualify, no X —
+        + Clarify: W must be complete enough to allow a determination of whether the good is attained
+          and, if necessary, maintained or held.
+        + Clarify: mere belief based on plausibility will not suffice for W, as it would in the case
+          of deliberating over means whose choice was open to prudence.  One must be certain
+          of the end that serves as ground.
+    - Having no knowledge of any X — cognizant of nothing that would qualify, no absolute good —
       I am rationally bound to go in search of that knowledge.  I must take W as my end.
         : cf. `^^- Therefore.+bound to.+a best effort at learning what those norms are` @
           moral_uncertainty.brec : Another instance of a binding default norm
           triggered by one’s awareness of normative ignorance.
-        : cf. `I must take M as my end\.$` @ moral_uncertainty.brec :
-          How W relates to M is unknown at present.  I must take both as my ends.
-        + Clarify that mere belief based on plausibility will not suffice here, as it would in the case
-          of deliberating over means whose choice was open to prudence.  One must be certain of the end
-          that serves as ground.
-    - So it is a failure of reason that brings on my desire for a sense of purpose, a failure
-      owing to the fault of having no X as an end, which in turn I can redress only through W.
     - W is knowledge of what is commonly called ‘the purpose of life’ or ‘the meaning of life’.
         - These familiar phrases remind me I am not alone in desiring it, and frequently it is a byword
           for the unknowable, the unattainable.
@@ -53,20 +52,19 @@ A failure of reason: the ground of motivation
         ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈
 
     - Seeing a way foward and being moved to take it without also seeing the destination
-      is what eventually brought me to understand that I am engaged in a search.
+      is what eventually enabled me to understand the basis of my desire,
+      and then channel it in the form of a deliberate search.
     - Again, I formulate the object of that search.  What I seek is:
 
         W. Knowledge of an absolute good, a thing worthy in its own right.
 
-        + Clarify: W must be complete enough to allow a determination of whether the good is attained
-          and, if necessary, maintained or held.
     - Only a stable consensus can validate knowledge on a topic that lies open to controversy.
         : re `open to controversy` see `frequently it is a byword\R +for the unknowable`
 
         C. A stable consensus on an absolute good.
 
         + Warrant this claim.
-            : join @ `^^- Only.consensus can validate` @ moral_uncertainty.brec : by referring hence
+            : join @ `^^- Only.+consensus can validate` @ moral_uncertainty.brec : by referring hence
     - A stable consensus requires a sustained quorum.
 
         H. The rational macrocommunity of humankind extant through C to W.
@@ -75,23 +73,10 @@ A failure of reason: the ground of motivation
             : join @ `^^H\. ` @ moral_uncertainty.brec
     - In binding me to an end (W) that is necessarily collective (C), reason has bound me
       to the interim maintenance (H) of the collective itself.
-    - Short of these ends, no alternatives exist within the bounds of reason.
-        : cf. `no alternatives exist within moral bounds\.$` @ moral_uncertainty.brec
+    - Short of W, no alternative exists within the bounds of reason.
+        : cf. `no alternative exists within moral bounds\.$` @ moral_uncertainty.brec
         - W is unlikely to be attained in my own time.  But even if I judged it unattainable,
-          it would remain the only rational basis for action on my part.
-        !! If willing W suffices as a rational basis (as indeed it must in order to speak
-          of rational action later), then the rhetoric of the present file is incoherent.
-            - What society leaves me without is not a sense of purpose, but W:
-              knowledge of a worthy end to pursue, or of a worthy pursuit.
-                + Do not imply that society leaves me (in present terms) without a sense of purpose.
-                - I may have lacked a sure sense of purpose in the past, but now I have one in W.
-                    + Ensure that my present desire, at least, is given as W.
-            - Reason failed me in the past, but not at present.
-                - It was not an enduring failure like moral uncertainty is;
-                  the enduring failure here is an axiologic one.
-                + Correct the references to failure
-                + Rename this file.
-                    | axiologic uncertainty
+          it would remain the only ground for rational action on my part.
     ∴ I take W as my end, and with it C and H.
 
 
