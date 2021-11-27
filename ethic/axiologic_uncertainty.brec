@@ -71,6 +71,9 @@ Axiologic uncertainty: the ground of motivation
 
         + Define the ‘rational macrocommunity of humankind’.
             : join @ `^^H\. ` @ moral_uncertainty.brec
+        - The macrocommunity must be rational because reason is necessary to W,
+          as it is necessary to all  knowledge.
+            : join `^^- The macrocommunity must be rational` @ moral_uncertainty.brec
     - In binding me to an end (W) that is necessarily collective (C), reason has bound me
       to the interim maintenance (H) of the collective itself.
     - Short of W, no alternative exists within the bounds of reason.
