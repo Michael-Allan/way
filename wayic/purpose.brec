@@ -1,16 +1,11 @@
 Purpose of the wayic
 
-    - To rightfully bring into society a system to form and further aimed ways of life,
+    - To bring into society a system to form and further aimed ways of life,
       whereby the system, tapping into widespread, unmet demand for goal orientation,
       extends and maintains itself throughout society. \ Sync → `../way.brec`.
         : re `widespread, unmet demand for goal orientation` see head @ premise.brec
         - To further an aimed way of life (once formed) is to advance it by execution
           and/or reformative development.
-        update+ to the latest version of the ethic
-            : see ../ethic/
-            - No longer is ‘rightful’ a term of art.
-            : join @ `^^ rightful$` @ architectonic.brec
-            : join @ http://reluk.ca/project/wayic/code/rule/rightful_institution.brec
 
 
 \ 🅮 This file has been dedicated by its author(s) to the public domain.  To the extent possible
