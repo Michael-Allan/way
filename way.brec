@@ -18,9 +18,31 @@
     dead rhetoric!!+ as it stands
         - I like this mode of introduction, but alone it works only for a patient reader.
         1+ Refocus on the whole file, the whole plan of action.
-        2+ There reward the reader’s glance immediately.
-            + Rely here on prominent text alone, e.g. headings and opening sentences.
+            : re `whole plan of action` see `^^steps to success`
+        2+ There reward the reader’s glance immediately, relying on prominent text alone,
+           e.g. headings and opening sentences.
+            a)+ Summarize what follows with an opening sentence and (maybe) paragraph of elaboration.
+            b)+ State the problem, making clear what is at stake.
+            c)+ Claim a systematic solution.
+            d)+ Claim and give evidence of features attractive to a technician, such as:
+                    • You can climb into the system, using it yourself
+                    • It is usable almost from scratch
+                    • Using it will bootstrap/snowball the development of it
+                !! This is understated as mere ‘features’.
+                    - Rather it is the crucial step to success.
+                        : see `^^5.+a path from.+adoption by developers.+\R.+to widespread adoption.$`
         3+ Fit the introduction (or what I like of it) into this larger context.
+
+
+    steps to success, whereby the waycast through its compiled way model (demonstration)
+      does its own technical recruiting for the most part, and so proves it’s own design
+        1. State the purpose of the wayic system.
+        2. State the main functions and the reason for each.
+            : privately cf. ~/work/waycast/._/README_techno-didactic.html
+        3. Implement them.
+        4. Demonstrate them.
+        5. Show a path from demonstration to adoption by developers and other core users,
+          thence to widespread adoption.
 
 
 
