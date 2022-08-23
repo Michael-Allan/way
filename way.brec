@@ -2,8 +2,7 @@ To aim for what matters
 
     - … ability to aim for what matters … enabling|facilitating it …
     [↑+ Summarize in a paragraph what follows.
-
-    [what is at stake]
+    what is at stake
         - How many of our daily actions are directed to what matters,
           to that which ultimately gives meaning, purpose to our actions?
         - For most of us, very few.
@@ -15,15 +14,14 @@ To aim for what matters
         [↑+ State what is at stake.
             - Address it at the level most appealing to technicians in general,
               abstracting away other levels by mere reference.
-    [how to secure it]
-        [↑+ Put the entry steps that a technician-reader may follow in order to secure what is at stake.
-            - Give the technician-reader to understand:
-                ⁃ You may climb into the system yourself
-                ⁃ It is immediately usable for purpose
-                ⁃ Using it will bootstrap/snowball its further development,
-                  such that eventually it becomes usable by non-technicians
-            - Explicitly allow for disagreement with the present approach (theory or design),
-              giving alternative steps to follow.
+    how to secure it \ to include by reference the following §§
+    requirements     \ to include by reference the following §
+    proof of design  \ to include by reference the following §§
+    seeing past the obstacles \ what only the technician can do
+    climbing into the system  \ what only the technician can do at present
+    aiming for what matters   \ what only the technician can do at present
+    [↑+ Put the entry steps (in the §§ above) that a technician-reader may follow in order
+      to secure what is at stake.
 
 
     : thoroughfractum
