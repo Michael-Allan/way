@@ -1,0 +1,673 @@
+Way index
+
+
+    !! 
+        : see `^^ Alarm point$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    + 
+        : see `^^ Task point$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    / 
+        : see `^^ Aside point$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    : 
+        : see `^^ Command point$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    >
+        : see @ http://reluk.ca/project/editing/lexicon.brec
+    @
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
+    \ 
+        : see `^^ Comment carrier$` @ http://reluk.ca/project/Breccia/language_definition.brec
+
+
+╺━━ A ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    absolute good
+        : see http://reluk.ca/project/waycast/ethic/axiologic_uncertainty.brec
+    abstract
+        : see @ http://reluk.ca/project/lexicon.brec
+    action
+        , term ‘freedom of action’
+            : re `‘(.+)’` join same
+        , term ‘rational action’
+            : re `‘(.+)’` join same
+    aimed way of life
+        : see @ http://reluk.ca/project/waycast/wayic/lexicon.brec
+    alarm point
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    alphanumeric
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
+    also, command `see also`
+        : re `\`(.+)\`` join same
+    ancestor, of a body fractum
+        : see @ `^^ hierarchic relata$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    architectonic, of the wayic
+        : join `^^, architectonic of$` @ `^^wayic$`
+    architecture, of the wayic
+        : join `^^, architecture of$` @ `^^wayic$`
+    aside point
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    associative reference
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    authority, term ‘certificate of authority’
+        : re `‘(.+)’` join same
+
+
+╺━━ B ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    blind, term ‘indent blind’
+        : re `‘(.+)’` join same
+    body
+        : see @ `^^ Fractum$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    body segment
+        : see @ http://reluk.ca/project/Breccia/parser/lexicon.brec
+    body fractum
+        : see `^^ fractal types$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    .brec
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
+    Breccia
+        : see http://reluk.ca/project/Breccia/
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
+    Breccia Mode for Emacs
+        : see http://reluk.ca/project/Breccia/Emacs/
+    Breccian
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
+    Breccia Parser
+        : see http://reluk.ca/project/Breccia/parser/
+        , plain
+            : join `^^plain Breccia parser$`
+    Breccia Web Imager
+        : see http://reluk.ca/project/Breccia/Web/imager/
+    Breccia X-Breccia Translator
+        : see http://reluk.ca/project/Breccia/XML/translator/
+    bullet
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
+
+
+╺━━ C ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    canonical location
+        : see @ http://reluk.ca/project/wayic/cast/form_of_a_waycast.brec
+    carrier, term ‘comment carrier’
+        : re `‘(.+)’` join same
+    cast
+        : see @ http://reluk.ca/project/wayic/cast/lexicon.brec
+    certificate of authority
+        : see @ http://reluk.ca/project/wayic/cast/form_of_a_waycast.brec
+    cf.
+        : see same term @ `^^·$` @ `^^ referential command$` @
+          http://reluk.ca/project/Breccia/language_definition.brec
+    change flow
+        : see @ http://reluk.ca/project/Tapster/lexicon.brec
+    child, of a fractum
+        : see @ `^^ hierarchic relata$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    clause, term ‘containment clause’
+        : re `‘(.+)’` join same
+    code
+        , term ‘source code’
+            : re `‘(.+)’` join same
+        , term ‘Wayic Code’
+            : re `‘(.+)’` join same
+    command directory
+        : see @ http://reluk.ca/project/lexicon.brec
+    command point
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    comment carrier
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    compilation
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    compile
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
+    concrete
+        : see @ http://reluk.ca/project/lexicon.brec
+    containment clause
+        : see @ `^^ referent clause$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    containment operator
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
+
+
+╺━━ D ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    declaration, term ‘way declaration’
+        : re `‘(.+)’` join same
+    descendant, of a fractum
+        : see @ `^^ hierarchic relata$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    designator, term ‘thoroughfractum designator’
+        : re `‘(.+)’` join same
+    descriptor
+        : see `^^file descriptor$`
+        : see `^^point descriptor$`
+    diaspora, cast of
+        : see http://reluk.ca/project/waycast/diaspora/
+    difference, term ‘standing difference’
+        : re `‘(.+)’` join same
+    directory, term ‘command directory’
+        : re `‘(.+)’` join same
+    divider
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    division
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    duty, term ‘moral duty’
+        : re `‘(.+)’` join same
+
+
+╺━━ E ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    e.g.
+        : see same term @ `^^·$` @ `^^ referential command$` @
+          http://reluk.ca/project/Breccia/language_definition.brec
+    Emacs
+        , Breccia Mode
+            : join `^^Breccia Mode for Emacs$`
+        , Waybrec Mode
+            : join `^^Waybrec Mode for Emacs$`
+    ends justification
+        : see @ http://reluk.ca/project/waycast/ethic/precarious_conditions.brec
+        : see @ http://reluk.ca/project/waycast/ethic/rights.brec
+        : see `^^right:.+To justify one’s ends` @ http://reluk.ca/project/waycast/ethic/rights.brec
+    engagement
+        , term ‘way engagement’
+            : re `‘(.+)’` join same
+        , term ‘way engagement point’
+            : re `‘(.+)’` join same
+    ethic, term ‘normative ethic’
+        : re `‘(.+)’` join same
+    expression, term ‘regular expression’
+        : re `‘(.+)’` join same
+    extracast
+        : see @ http://reluk.ca/project/wayic/cast/lexicon.brec
+
+
+╺━━ F ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    F
+        , formal condition
+            : join `^^form F$`
+        , separator
+            : see `^^F$` @ `^^ Separation$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        , term ‘right to F’
+            : re `‘(.+)’` join same
+    file
+        , term ‘headless file’
+            : re `‘(.+)’` join same
+        , term ‘way file’
+            : re `‘(.+)’` join same
+    file descriptor
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    file fractum
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    file head
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
+    flow, term ‘change flow’
+        : re `‘(.+)’` join same
+    foregap
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
+    formal
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
+    fracta
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
+    fractal
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
+        , term ‘non-fractal’
+            : re `‘(.+)’` join same
+    fractal segment
+        : see @ http://reluk.ca/project/Breccia/parser/lexicon.brec
+    fractum
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
+        , term ‘body fractum’
+            : re `‘(.+)’` join same
+        , term ‘file fractum’
+            : re `‘(.+)’` join same
+    fractum indicant
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    freedom of action
+        : see @ `^^ inference of conditions$` @
+          http://reluk.ca/project/waycast/ethic/precarious_conditions.brec
+        : see @ http://reluk.ca/project/waycast/ethic/rights.brec
+        : see `^^right.+imperfect.+Freedom of action` @ http://reluk.ca/project/waycast/ethic/rights.brec
+        : see `^^right: \(perfect.+Freedom of action` @ http://reluk.ca/project/waycast/ethic/rights.brec
+
+
+╺━━ G ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    G
+        , formal condition
+            : join `^^form G$`
+        , term ‘right to G’
+            : re `‘(.+)’` join same
+    gap
+        , term ‘foregap’
+            : re `‘(.+)’` join same
+        , term ‘postgap’
+            : re `‘(.+)’` join same
+    genealogy of the wayic
+        : see http://reluk.ca/project/wayic/genealogy.xht
+    good, term ‘absolute good’
+        : re `‘(.+)’` join same
+
+
+╺━━ H ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    head
+        : see @ `^^ Fractum$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see same term @ `^^- An inferential referent indicant comprises $` @
+          http://reluk.ca/project/Breccia/language_definition.brec
+        , term ‘file head’
+            : re `‘(.+)’` join same
+    headless file
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
+    hierarchic order
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
+    hierarchy
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
+    hyperlink referrer
+        : see @ http://reluk.ca/project/Web/lexicon.brec
+
+
+╺━━ I ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    identifier, term ‘waycaster identifier’
+        : re `‘(.+)’` join same
+    i.e.
+        : see same term @ `^^·$` @ `^^ referential command$` @
+          http://reluk.ca/project/Breccia/language_definition.brec
+    image, term ‘Web image’
+        : re `‘(.+)’` join same
+    imager, term ‘Web imager’
+        : re `‘(.+)’` join same
+    imperfect rights
+        : see `^^perfect and imperfect rights$` @ http://reluk.ca/project/waycast/ethic/rights.brec
+    indent, term ‘perfect indent’
+        : re `‘(.+)’` join same
+    indent blind
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    indicant
+        , term ‘fractum indicant’
+            : re `‘(.+)’` join same
+        , term ‘inferential referent indicant’
+            : re `‘(.+)’` join same
+        , term ‘resource indicant’
+            : re `‘(.+)’` join same
+    inferential referent indicant
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    informal
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
+    intercast
+        : see @ http://reluk.ca/project/wayic/intercast/lexicon.brec
+    intercast networking, project
+        : see http://reluk.ca/project/wayic/intercast/
+    intracast
+        : see @ http://reluk.ca/project/wayic/cast/lexicon.brec
+
+
+╺━━ J ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    join
+        : see same term @ `^^·$` @ `^^ referential command$` @
+          http://reluk.ca/project/Breccia/language_definition.brec
+    jointer
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
+    justification, term ‘ends justification’
+        : re `‘(.+)’` join same
+
+
+╺━━ L ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    life, term ‘aimed way of life’
+        : re `‘(.+)’` join same
+    linear order
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
+    location, term ‘canonical location’
+        : re `‘(.+)’` join same
+
+
+╺━━ M ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    m
+        : see `^^(match modifier)$.*‘(m)’`ms @ `^^ pattern matcher$` @
+          `^^ Regular-expression pattern matching$` @
+          http://reluk.ca/project/Breccia/language_definition.brec
+    Makeshift
+        : see http://reluk.ca/project/building/Makeshift/
+    matching, term ‘regular-expression pattern matching’
+        : re `‘(.+)’` join same
+    mode
+        , Breccia Mode
+            : join `^^Breccia Mode for Emacs$`
+        , Waybrec Mode
+            : join `^^Waybrec Mode for Emacs$`
+    model, term ‘way model’
+        : re `‘(.+)’` join same
+    moral duty
+        : see http://reluk.ca/project/waycast/ethic/moral_uncertainty.brec
+
+
+╺━━ N ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    NB
+        : see same term @ `^^·$` @ `^^ referential command$` @
+          http://reluk.ca/project/Breccia/language_definition.brec
+    N.B.
+        : see same term @ `^^·$` @ `^^ referential command$` @
+          http://reluk.ca/project/Breccia/language_definition.brec
+    networking, term ‘intercast networking’
+        : re `‘(.+)’` join same
+    newline
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
+    nominate
+        : see @ http://reluk.ca/project/waycast/wayic/lexicon.brec
+    non-fractal
+        : see same term @ `^^·$` @ `^^ Resource indicant$` @
+          http://reluk.ca/project/Breccia/language_definition.brec
+    normative ethic, cast of
+        : see http://reluk.ca/project/waycast/ethic/
+
+
+╺━━ O ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    off-way
+        : see @ http://reluk.ca/project/wayic/model/lexicon.brec
+    on-way
+        : see @ http://reluk.ca/project/wayic/model/lexicon.brec
+    operator, term ‘containment operator’
+        : re `‘(.+)’` join same
+    order
+        , term ‘hierarchic order’
+            : re `‘(.+)’` join same
+        , term ‘linear order’
+            : re `‘(.+)’` join same
+
+
+╺━━ P ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    P
+        : see @ `^^ Separation$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    package, term ‘proper package’
+        : re `‘(.+)’` join same
+    parameter, term ‘waycast parameter’
+        : re `‘(.+)’` join same
+    parameterizer, term ‘waycast parameterizer’
+        : re `‘(.+)’` join same
+    parameter typifier
+        : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
+    parametric subsystem
+        : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
+    parent, of a body fractum
+        : see @ `^^ hierarchic relata$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    parser
+        , term ‘Breccia Parser’
+            : re `‘(.+)’` join same
+        , of plain Breccia
+            : join `^^plain Breccia parser$`
+    path, term ‘proper path’
+        : re `‘(.+)’` join same
+    pattern, term ‘regular-expression pattern matching’
+        : re `‘(.+)’` join same
+    perfect indent
+        : see @ `^^ Separation$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    perfect rights
+        : see `^^perfect and imperfect rights$` @ http://reluk.ca/project/waycast/ethic/rights.brec
+    personal security
+        : see @ http://reluk.ca/project/waycast/ethic/rights.brec
+        : see `^^right:.+The security of one’s person` @
+          http://reluk.ca/project/waycast/ethic/rights.brec
+    plain Breccia parser
+        : see http://reluk.ca/project/Breccia/parser/plain/
+    plain point
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    point
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    point descriptor
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    pointer
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    postgap
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
+    private
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
+        : see same term @ `command .+ form:$` @ `^^ Privatizer$` @
+          http://reluk.ca/project/Breccia/lexicon.brec
+    privately
+        : see same term @ `descriptor .+ form:$` @ `^^ Command point$` @
+          http://reluk.ca/project/Breccia/lexicon.brec
+    privatizer
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    proper package
+        : see @ http://reluk.ca/project/lexicon.brec
+    proper path
+        , of a project or project file
+            : see `^^proper path$` @ http://reluk.ca/project/lexicon.brec
+        , of a waycast file
+            : see `^^proper path$` @ http://reluk.ca/project/wayic/cast/lexicon.brec
+    publication, term ‘Web publication’
+        : re `‘(.+)’` join same
+
+
+╺━━ R ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    rational action
+        : see http://reluk.ca/project/waycast/ethic/precarious_conditions.brec
+    re
+        : see `^^ referrer clause$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    rebase
+        : see @ http://reluk.ca/project/lexicon.brec
+    regular-expression pattern matching
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    reference
+        , term ‘associative reference’
+            : re `‘(.+)’` join same
+        , term ‘body reference’
+            : re `‘(.+)’` join same
+    referent, term ‘inferential referent indicant’
+        : re `‘(.+)’` join same
+    regular expression
+        : see `^^ Regular-expression pattern matching$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    resource indicant
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    rights
+        : see http://reluk.ca/project/waycast/ethic/rights.brec
+        , term ‘imperfect rights’
+            : re `‘(.+)’` join same
+        , term ‘perfect rights’
+            : re `‘(.+)’` join same
+
+
+╺━━ S ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    S
+        : see @ `^^ Separation$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    s
+        : see `^^(match modifier)$.*‘(s)’`ms @ `^^ pattern matcher$` @
+          `^^ Regular-expression pattern matching$` @
+          http://reluk.ca/project/Breccia/language_definition.brec
+    safe, term ‘thread safe’
+        : re `‘(.+)’` join same
+    same
+        : see same term @ `^^- An inferential referent indicant comprises $` @
+          http://reluk.ca/project/Breccia/language_definition.brec
+    sc.
+        : see same term @ `^^·$` @ `^^ referential command$` @
+          http://reluk.ca/project/Breccia/language_definition.brec
+    security, term ‘personal security’
+        : re `‘(.+)’` join same
+    see
+        : see same term @ `^^see\+` @ `^^ referential command$` @
+          http://reluk.ca/project/Breccia/language_definition.brec
+    see also
+        : see `‘(see)’.+‘(also)’` @ `^^see\+` @ `^^ referential command$` @
+          http://reluk.ca/project/Breccia/language_definition.brec
+    segment
+        , term ‘body segment’
+            : re `‘(.+)’` join same
+        , term ‘fractal segment’
+            : re `‘(.+)’` join same
+    set
+        : see same term @ `command .+ form:$` @ `^^ Waycast parameterizer$` @
+          http://reluk.ca/project/wayic/Waybrec/language_definition.brec
+    sibling, of a body fractum
+        : see @ `^^ hierarchic relata$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    similar
+        : see same term @ `^^- An inferential referent indicant comprises $` @
+          http://reluk.ca/project/Breccia/language_definition.brec
+    simulacra
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
+    simulacral
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
+    simulacrum
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
+    source
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
+    source code
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
+    stand
+        : see @ http://reluk.ca/project/Tapster/lexicon.brec
+    stock
+        : see @ http://reluk.ca/project/Tapster/lexicon.brec
+    standing difference
+        : see @ http://reluk.ca/project/Tapster/lexicon.brec
+    subjoin
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
+    subjoint
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
+    subsystem, term ‘parametric subsystem’
+        : re `‘(.+)’` join same
+    surjoin
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
+    surjoint
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
+
+
+╺━━ T ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    tap
+        : see @ http://reluk.ca/project/Tapster/lexicon.brec
+    task point
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    term
+        : see same head @ `^^Fractum$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see same term @ `^^- An inferential referent indicant comprises ` @
+          http://reluk.ca/project/Breccia/language_definition.brec
+    thoroughfracta
+        : see @ http://reluk.ca/project/wayic/model/lexicon.brec
+    thoroughfractal
+        : see @ http://reluk.ca/project/wayic/model/lexicon.brec
+    thoroughfractum
+        : see @ http://reluk.ca/project/wayic/model/lexicon.brec
+        : see same term @ `command .+ form:$` @ `^^ Thoroughfractum designator$` @
+          http://reluk.ca/project/wayic/Waybrec/language_definition.brec
+    thoroughfractum designator
+        : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
+    thread safe
+        : see @ http://reluk.ca/project/Java/lexicon.brec
+    translator, term ‘Breccia X-Breccia Translator’
+        : re `‘(.+)’` join same
+    typifier, term ‘parameter typifier’
+        : re `‘(.+)’` join same
+
+
+╺━━ U ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    uncast
+        : see @ http://reluk.ca/project/wayic/cast/lexicon.brec
+
+
+╺━━ V ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    viz.
+        : see same term @ `^^·$` @ `^^ referential command$` @
+          http://reluk.ca/project/Breccia/language_definition.brec
+
+
+╺━━ W ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    way, term ‘aimed way of life’
+        : re `‘(.+)’` join same
+    Waybrec
+        : see http://reluk.ca/project/wayic/Waybrec/
+        : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
+        , Web imager
+            : join `^^Waycast Web Imager$`
+    Waybreccian
+        : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
+    Waybrec Mode for Emacs
+        : see http://reluk.ca/project/wayic/Waybrec/Emacs/
+    Waybrec Parser
+        : see http://reluk.ca/project/wayic/Waybrec/parser/
+    waycast
+        : see @ http://reluk.ca/project/wayic/cast/lexicon.brec
+        , project
+            : see http://reluk.ca/project/wayic/cast/
+        , Web imager
+            : join `^^Waycast Web Imager$`
+    waycaster
+        : see @ http://reluk.ca/project/wayic/cast/lexicon.brec
+    waycaster identifier
+        : see `^^identifier of a waycaster$` @ http://reluk.ca/project/wayic/cast/form_of_a_waycast.brec
+        : see `^^waycaster_identifier$` @ `^^certificate of authority$` @
+          http://reluk.ca/project/wayic/cast/form_of_a_waycast.brec
+    waycast parameter
+        : see same term @ `^^- Its command has this form:$` @ `^^Waycast parameterizer$` @
+          http://reluk.ca/project/wayic/Waybrec/language_definition.brec
+    waycast parameterizer
+        : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
+    Waycast Web Imager
+        : see http://reluk.ca/project/wayic/Web/imager/
+    way declaration
+        : see @ http://reluk.ca/project/wayic/cast/lexicon.brec
+    way engagement
+        : see @ http://reluk.ca/project/waycast/wayic/lexicon.brec
+    way engagement point
+        : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
+    way file
+        : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
+    wayic
+        : see @ http://reluk.ca/project/waycast/wayic/lexicon.brec
+        , architectonic of
+            : see http://reluk.ca/project/waycast/wayic/architectonic.brec
+        , architecture of
+            : see http://reluk.ca/project/waycast/wayic/architecture.brec
+        , cast of
+            : see http://reluk.ca/project/waycast/wayic/
+        , genealogy of
+            : join `^^genealogy of the wayic$`
+        , projects of
+            : see http://reluk.ca/project/wayic/
+        , purpose of
+            : see http://reluk.ca/project/waycast/wayic/purpose.brec
+    wayical
+        : see @ http://reluk.ca/project/waycast/wayic/lexicon.brec
+    Wayic Code
+        : see http://reluk.ca/project/wayic/code/
+    wayics
+        : see @ http://reluk.ca/project/waycast/wayic/lexicon.brec
+    way model
+        : see @ http://reluk.ca/project/wayic/model/lexicon.brec
+    Way Modelling
+        : see http://reluk.ca/project/wayic/model/
+    way of life, aimed
+        : join `^^aimed way of life$`
+    waysource
+        : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
+    Web image
+        : see http://reluk.ca/project/Web/lexicon.brec
+    Web imager
+        , Breccia
+            : join `^^Breccia Web Imager$`
+        , waycast
+            : join `^^Waycast Web Imager$`
+    Web publication
+        : see @ http://reluk.ca/project/Breccia/project_installation.brec
+    whitespace
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
+
+
+╺━━ X ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    X-Breccia
+        : see http://reluk.ca/project/Breccia/XML/
+        : see @ http://reluk.ca/project/Breccia/XML/lexicon.brec
+        , translator
+            : see `^^Breccia X-Breccia Translator$`
+
+
+
+                                                    \ Copyright © 2019-2022  Michael Allan.  Licence MIT.
