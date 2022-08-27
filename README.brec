@@ -1,11 +1,10 @@
 Developing the tools to aim for what matters
 
     purpose
-        : privately see @ `^^ Work$` @ ~/base.brec
-        : privately see notepad:2022-8-24,25
-        : privately see `^^what is at stake$` @ `^^ Work$` @ ~/base.brec
+        : privately see @ working_notes.brec
+        : privately see `^^what is at stake$` @ working_notes.brec
     motive
-        : privately see `^^what is at stake$` @ `^^ Work$` @ ~/base.brec
+        : privately see `^^what is at stake$` @ working_notes.brec
     requirements
     audience
         : privately see notepad:2022-8-23
