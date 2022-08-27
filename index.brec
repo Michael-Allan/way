@@ -20,7 +20,7 @@ Way index
 ╺━━ A ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     absolute good
-        : see http://reluk.ca/project/waycast/ethic/axiologic_uncertainty.brec
+        : see ethic/axiologic_uncertainty.brec
     abstract
         : see @ http://reluk.ca/project/lexicon.brec
     action
@@ -29,7 +29,7 @@ Way index
         , term ‘rational action’
             : re `‘(.+)’` join same
     aimed way of life
-        : see @ http://reluk.ca/project/waycast/wayic/lexicon.brec
+        : see @ wayic/lexicon.brec
     alarm point
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     alphanumeric
@@ -135,7 +135,7 @@ Way index
         : see `^^file descriptor$`
         : see `^^point descriptor$`
     diaspora, cast of
-        : see http://reluk.ca/project/waycast/diaspora/
+        : see diaspora/
     difference, term ‘standing difference’
         : re `‘(.+)’` join same
     directory, term ‘command directory’
@@ -159,9 +159,9 @@ Way index
         , Waybrec Mode
             : join `^^Waybrec Mode for Emacs$`
     ends justification
-        : see @ http://reluk.ca/project/waycast/ethic/precarious_conditions.brec
-        : see @ http://reluk.ca/project/waycast/ethic/rights.brec
-        : see `^^right:.+To justify one’s ends` @ http://reluk.ca/project/waycast/ethic/rights.brec
+        : see @ ethic/precarious_conditions.brec
+        : see @ ethic/rights.brec
+        : see `^^right:.+To justify one’s ends` @ ethic/rights.brec
     engagement
         , term ‘way engagement’
             : re `‘(.+)’` join same
@@ -219,11 +219,10 @@ Way index
     fractum indicant
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     freedom of action
-        : see @ `^^ inference of conditions$` @
-          http://reluk.ca/project/waycast/ethic/precarious_conditions.brec
-        : see @ http://reluk.ca/project/waycast/ethic/rights.brec
-        : see `^^right.+imperfect.+Freedom of action` @ http://reluk.ca/project/waycast/ethic/rights.brec
-        : see `^^right: \(perfect.+Freedom of action` @ http://reluk.ca/project/waycast/ethic/rights.brec
+        : see @ `^^ inference of conditions$` @ ethic/precarious_conditions.brec
+        : see @ ethic/rights.brec
+        : see `^^right.+imperfect.+Freedom of action` @ ethic/rights.brec
+        : see `^^right: \(perfect.+Freedom of action` @ ethic/rights.brec
 
 
 ╺━━ G ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -274,7 +273,7 @@ Way index
     imager, term ‘Web imager’
         : re `‘(.+)’` join same
     imperfect rights
-        : see `^^perfect and imperfect rights$` @ http://reluk.ca/project/waycast/ethic/rights.brec
+        : see `^^perfect and imperfect rights$` @ ethic/rights.brec
     indent, term ‘perfect indent’
         : re `‘(.+)’` join same
     indent blind
@@ -338,7 +337,7 @@ Way index
     model, term ‘way model’
         : re `‘(.+)’` join same
     moral duty
-        : see http://reluk.ca/project/waycast/ethic/moral_uncertainty.brec
+        : see ethic/moral_uncertainty.brec
 
 
 ╺━━ N ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -354,12 +353,12 @@ Way index
     newline
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
     nominate
-        : see @ http://reluk.ca/project/waycast/wayic/lexicon.brec
+        : see @ wayic/lexicon.brec
     non-fractal
         : see same term @ `^^·$` @ `^^ Resource indicant$` @
           http://reluk.ca/project/Breccia/language_definition.brec
     normative ethic, cast of
-        : see http://reluk.ca/project/waycast/ethic/
+        : see ethic/
 
 
 ╺━━ O ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -405,11 +404,10 @@ Way index
     perfect indent
         : see @ `^^ Separation$` @ http://reluk.ca/project/Breccia/language_definition.brec
     perfect rights
-        : see `^^perfect and imperfect rights$` @ http://reluk.ca/project/waycast/ethic/rights.brec
+        : see `^^perfect and imperfect rights$` @ ethic/rights.brec
     personal security
-        : see @ http://reluk.ca/project/waycast/ethic/rights.brec
-        : see `^^right:.+The security of one’s person` @
-          http://reluk.ca/project/waycast/ethic/rights.brec
+        : see @ ethic/rights.brec
+        : see `^^right:.+The security of one’s person` @ ethic/rights.brec
     plain Breccia parser
         : see http://reluk.ca/project/Breccia/parser/plain/
     plain point
@@ -445,7 +443,7 @@ Way index
 ╺━━ R ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     rational action
-        : see http://reluk.ca/project/waycast/ethic/precarious_conditions.brec
+        : see ethic/precarious_conditions.brec
     re
         : see `^^ referrer clause$` @ http://reluk.ca/project/Breccia/language_definition.brec
     rebase
@@ -464,7 +462,7 @@ Way index
     resource indicant
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     rights
-        : see http://reluk.ca/project/waycast/ethic/rights.brec
+        : see ethic/rights.brec
         , term ‘imperfect rights’
             : re `‘(.+)’` join same
         , term ‘perfect rights’
@@ -614,31 +612,31 @@ Way index
     way declaration
         : see @ http://reluk.ca/project/wayic/cast/lexicon.brec
     way engagement
-        : see @ http://reluk.ca/project/waycast/wayic/lexicon.brec
+        : see @ wayic/lexicon.brec
     way engagement point
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     way file
         : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
     wayic
-        : see @ http://reluk.ca/project/waycast/wayic/lexicon.brec
+        : see @ wayic/lexicon.brec
         , architectonic of
-            : see http://reluk.ca/project/waycast/wayic/architectonic.brec
+            : see wayic/architectonic.brec
         , architecture of
-            : see http://reluk.ca/project/waycast/wayic/architecture.brec
+            : see wayic/architecture.brec
         , cast of
-            : see http://reluk.ca/project/waycast/wayic/
+            : see wayic/
         , genealogy of
             : join `^^genealogy of the wayic$`
         , projects of
             : see http://reluk.ca/project/wayic/
         , purpose of
-            : see http://reluk.ca/project/waycast/wayic/purpose.brec
+            : see wayic/purpose.brec
     wayical
-        : see @ http://reluk.ca/project/waycast/wayic/lexicon.brec
+        : see @ wayic/lexicon.brec
     Wayic Code
         : see http://reluk.ca/project/wayic/code/
     wayics
-        : see @ http://reluk.ca/project/waycast/wayic/lexicon.brec
+        : see @ wayic/lexicon.brec
     way model
         : see @ http://reluk.ca/project/wayic/model/lexicon.brec
     Way Modelling
