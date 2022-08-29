@@ -28,8 +28,6 @@ Way index
             : re `‘(.+)’` join same
         , term ‘rational action’
             : re `‘(.+)’` join same
-    aimed way of life
-        : see @ wayic/lexicon.brec
     alarm point
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     alphanumeric
@@ -38,10 +36,6 @@ Way index
         : re `\`(.+)\`` join same
     ancestor, of a body fractum
         : see @ `^^ hierarchic relata$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    architectonic, of the wayic
-        : join `^^, architectonic of$` @ `^^wayic$`
-    architecture, of the wayic
-        : join `^^, architecture of$` @ `^^wayic$`
     aside point
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     associative reference
@@ -100,11 +94,8 @@ Way index
         : see @ `^^ hierarchic relata$` @ http://reluk.ca/project/Breccia/language_definition.brec
     clause, term ‘containment clause’
         : re `‘(.+)’` join same
-    code
-        , term ‘source code’
-            : re `‘(.+)’` join same
-        , term ‘Wayic Code’
-            : re `‘(.+)’` join same
+    code, term ‘source code’
+        : re `‘(.+)’` join same
     command directory
         : see @ http://reluk.ca/project/lexicon.brec
     command point
@@ -134,8 +125,8 @@ Way index
     descriptor
         : see `^^file descriptor$`
         : see `^^point descriptor$`
-    diaspora, cast of
-        : see diaspora/
+    diaspora
+        : see e.g. diaspora/
     difference, term ‘standing difference’
         : re `‘(.+)’` join same
     directory, term ‘command directory’
@@ -311,8 +302,6 @@ Way index
 
 ╺━━ L ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-    life, term ‘aimed way of life’
-        : re `‘(.+)’` join same
     linear order
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
     location, term ‘canonical location’
@@ -352,13 +341,11 @@ Way index
         : re `‘(.+)’` join same
     newline
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
-    nominate
-        : see @ wayic/lexicon.brec
     non-fractal
         : see same term @ `^^·$` @ `^^ Resource indicant$` @
           http://reluk.ca/project/Breccia/language_definition.brec
-    normative ethic, cast of
-        : see ethic/
+    normative ethic
+        : see e.g. ethic/
 
 
 ╺━━ O ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -577,8 +564,9 @@ Way index
 
 ╺━━ W ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-    way, term ‘aimed way of life’
-        : re `‘(.+)’` join same
+    way
+        : see @ wayic/lexicon.brec
+        : see e.g. ./
     Waybrec
         : see http://reluk.ca/project/wayic/Waybrec/
         : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
@@ -619,34 +607,21 @@ Way index
         : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
     wayic
         : see @ wayic/lexicon.brec
-        , architectonic of
-            : see wayic/architectonic.brec
-        , architecture of
-            : see wayic/architecture.brec
-        , cast of
-            : see wayic/
+        : see e.g. wayic/
         , genealogy of
             : join `^^genealogy of the wayic$`
-        , projects of
-            : see http://reluk.ca/project/wayic/
-        , purpose of
-            : see wayic/purpose.brec
     wayical
         : see @ wayic/lexicon.brec
-    Wayic Code
-        : see http://reluk.ca/project/wayic/code/
     wayics
         : see @ wayic/lexicon.brec
     way model
         : see @ http://reluk.ca/project/wayic/model/lexicon.brec
     Way Modelling
         : see http://reluk.ca/project/wayic/model/
-    way of life, aimed
-        : join `^^aimed way of life$`
     waysource
         : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
     Web image
-        : see http://reluk.ca/project/Web/lexicon.brec
+        : see @ http://reluk.ca/project/Web/lexicon.brec
     Web imager
         , Breccia
             : join `^^Breccia Web Imager$`
