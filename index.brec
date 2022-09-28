@@ -361,6 +361,8 @@ Way index
             : re `‘(.+)’` join same
         , term ‘linear order’
             : re `‘(.+)’` join same
+    orphan image file
+        : see @ http://reluk.ca/project/Breccia/Web/imager/lexicon.brec
 
 
 ╺━━ P ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
