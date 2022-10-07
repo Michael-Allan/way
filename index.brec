@@ -67,10 +67,10 @@ Way index
         : see http://reluk.ca/project/Breccia/parser/
         , plain
             : join `^^plain Breccia parser$`
+    Breccia to X-Breccia
+        : see http://reluk.ca/project/Breccia/XML/translator/
     Breccia Web Imager
         : see http://reluk.ca/project/Breccia/Web/imager/
-    Breccia X-Breccia Translator
-        : see http://reluk.ca/project/Breccia/XML/translator/
     bullet
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
 
@@ -545,8 +545,6 @@ Way index
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     thread safe
         : see @ http://reluk.ca/project/Java/lexicon.brec
-    translator, term ‘Breccia X-Breccia Translator’
-        : re `‘(.+)’` join same
     typifier, term ‘parameter typifier’
         : re `‘(.+)’` join same
 
@@ -641,7 +639,7 @@ Way index
         : see http://reluk.ca/project/Breccia/XML/
         : see @ http://reluk.ca/project/Breccia/XML/lexicon.brec
         , translator
-            : see `^^Breccia X-Breccia Translator$`
+            : see `^^Breccia to X-Breccia$`
 
 
 
