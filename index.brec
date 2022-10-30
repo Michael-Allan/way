@@ -416,6 +416,8 @@ Way index
     privately
         : see same term @ `descriptor .+ form:$` @ `^^ Command point$` @
           http://reluk.ca/project/Breccia/lexicon.brec
+    privatize
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
     privatizer
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     proper package
