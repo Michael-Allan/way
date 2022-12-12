@@ -307,7 +307,7 @@ Way index
 ╺━━ M ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     m
-        : see `^^(match modifier)$.*‘(m)’`ms @ `^^ pattern matcher$` @
+        : see `^^(match modifier)$.*‘(m)’`s @ `^^ pattern matcher$` @
           `^^ Regular-expression pattern matching$` @
           http://reluk.ca/project/Breccia/language_definition.brec
     Makeshift
@@ -461,7 +461,7 @@ Way index
     S
         : see @ `^^ Separation$` @ http://reluk.ca/project/Breccia/language_definition.brec
     s
-        : see `^^(match modifier)$.*‘(s)’`ms @ `^^ pattern matcher$` @
+        : see `^^(match modifier)$.*‘(s)’`s @ `^^ pattern matcher$` @
           `^^ Regular-expression pattern matching$` @
           http://reluk.ca/project/Breccia/language_definition.brec
     safe, term ‘thread safe’
