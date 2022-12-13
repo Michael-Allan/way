@@ -478,7 +478,7 @@ Way index
         : see same term @ `^^see\+` @ `^^ referential command$` @
           http://reluk.ca/project/Breccia/language_definition.brec
     see also
-        : see `‘(see)’.+‘(also)’` @ `^^see\+` @ `^^ referential command$` @
+        : see `‘(also)’.+‘(see)’`s @ `^^see\+` @ `^^ referential command$` @
           http://reluk.ca/project/Breccia/language_definition.brec
     segment
         , term ‘body segment’
