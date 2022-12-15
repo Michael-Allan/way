@@ -88,6 +88,9 @@ Way index
     cf.
         : see same term @ `^^·$` @ `^^ referential command$` @
           http://reluk.ca/project/Breccia/language_definition.brec
+    cf. e.g.
+        : see `^^cf\.\+.$.+‘(cf\.)’.+‘(e\.g\.)’`s @ `^^ referential command$` @
+          http://reluk.ca/project/Breccia/language_definition.brec
     change flow
         : see @ http://reluk.ca/project/Tapster/lexicon.brec
     child, of a fractum
@@ -144,6 +147,10 @@ Way index
     e.g.
         : see same term @ `^^·$` @ `^^ referential command$` @
           http://reluk.ca/project/Breccia/language_definition.brec
+        , command `cf. e.g.`
+            : re `\`(.+)\`` join same
+        , command `see e.g.`
+            : re `\`(.+)\`` join same
     Emacs
         , Breccia Mode
             : join `^^Breccia Mode for Emacs$`
@@ -479,6 +486,9 @@ Way index
           http://reluk.ca/project/Breccia/language_definition.brec
     see also
         : see `^^see\+.$.+‘(also)’.+‘(see)’`s @ `^^ referential command$` @
+          http://reluk.ca/project/Breccia/language_definition.brec
+    see e.g.
+        : see `^^see\+.$.+‘(see)’.+‘(e\.g\.)’`s @ `^^ referential command$` @
           http://reluk.ca/project/Breccia/language_definition.brec
     segment
         , term ‘body segment’
