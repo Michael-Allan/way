@@ -475,10 +475,10 @@ Way index
     security, term ‘personal security’
         : re `‘(.+)’` join same
     see
-        : see same term @ `^^see\+` @ `^^ referential command$` @
+        : see same term @ `^^see\+.$` @ `^^ referential command$` @
           http://reluk.ca/project/Breccia/language_definition.brec
     see also
-        : see `‘(also)’.+‘(see)’`s @ `^^see\+` @ `^^ referential command$` @
+        : see `^^see\+.$.+‘(also)’.+‘(see)’`s @ `^^ referential command$` @
           http://reluk.ca/project/Breccia/language_definition.brec
     segment
         , term ‘body segment’
