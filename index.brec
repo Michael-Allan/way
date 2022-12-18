@@ -314,8 +314,7 @@ Way index
 ╺━━ M ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     m
-        : see `^^(match modifier)$.*‘(m)’`s @ `^^ pattern matcher$` @
-          `^^ Regular-expression pattern matching$` @
+        : see @ `^^ match modifier$` @ `^^ Regular-expression pattern matching$` @
           http://reluk.ca/project/Breccia/language_definition.brec
     Makeshift
         : see http://reluk.ca/project/building/Makeshift/
@@ -372,6 +371,9 @@ Way index
 
     P
         : see @ `^^ Separation$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    p
+        : see @ `^^ match modifier$` @ `^^ Regular-expression pattern matching$` @
+          http://reluk.ca/project/Breccia/language_definition.brec
     package, term ‘proper package’
         : re `‘(.+)’` join same
     parameter, term ‘waycast parameter’
@@ -468,8 +470,7 @@ Way index
     S
         : see @ `^^ Separation$` @ http://reluk.ca/project/Breccia/language_definition.brec
     s
-        : see `^^(match modifier)$.*‘(s)’`s @ `^^ pattern matcher$` @
-          `^^ Regular-expression pattern matching$` @
+        : see @ `^^ match modifier$` @ `^^ Regular-expression pattern matching$` @
           http://reluk.ca/project/Breccia/language_definition.brec
     safe, term ‘thread safe’
         : re `‘(.+)’` join same
