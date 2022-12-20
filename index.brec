@@ -257,6 +257,9 @@ Way index
 
 ╺━━ I ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+    i
+        : see @ `^+match modifier$` @ `^+Regular-expression pattern matching$` @
+          http://reluk.ca/project/Breccia/language_definition.brec
     identifier, term ‘waycaster identifier’
         : re `‘(.+)’` join same
     i.e.
