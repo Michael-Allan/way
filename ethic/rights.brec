@@ -9,23 +9,23 @@ Rights
 
     - Willing the bounden ends entails three conditions of rational action,
       each identified as being at risk.
-        : see `^^ends justification$` @ `^^ entailment by duty$` @ precarious_conditions.brec
-        : see `^^freedom of action$`  @ `^^ entailment by duty$` @ precarious_conditions.brec
-        : see `^^personal security$`  @ `^^ entailment by duty$` @ precarious_conditions.brec
+        : see `^*ends justification$` @ `^+entailment by duty$` @ precarious_conditions.brec
+        : see `^*freedom of action$`  @ `^+entailment by duty$` @ precarious_conditions.brec
+        : see `^*personal security$`  @ `^+entailment by duty$` @ precarious_conditions.brec
     - By the principle above, they are here formulated as rights.
-        : see `^^ ends justification$`
-        : see `^^ freedom of action$`
-        : see `^^ personal security$`
+        : see `^+ends justification$`
+        : see `^+freedom of action$`
+        : see `^+personal security$`
 
     boundary translations: scope of duty → scope of rights
         - Duty’s entailment of the conditions of rational action is constrained in scope; it entails them
           only where they apply to practical reasoning and action in regard to the bounden ends.
-            : re `entailment` see `^^ entailment by duty$` @ precarious_conditions.brec
+            : re `entailment` see `^+entailment by duty$` @ precarious_conditions.brec
         - Yet in formulating one’s right to these conditions, no such constraint can be applied.
             ∵ Singling out the bounden ends alone as worthy of moral sanction would verge on disparaging
               other utmost ends, thereby on violating the right of ends justification.
                 : re `violating.+ends justification` see
-                  `^^- A specific violation.+is to.+disparage an utmost end`
+                  `^*- A specific violation.+is to.+disparage an utmost end`
         - For sake of coherence, then, the constraint must be omitted from the formulae of right.
         - The principle of this omission is:
 
@@ -38,11 +38,11 @@ Rights
               What capacity for ends justification, for instance?  How much freedom or personal security?
             - In any case, the only bounds clearly formulable are the maximum ones.
             - For sake of clarity, then, the formulae of right entitle one to unrestricted access.
-                : see `^^principle: Where the scope of duty falls short of.+a clear.+formulation`
+                : see `^*principle: Where the scope of duty falls short of.+a clear.+formulation`
 
     perfect and imperfect rights
         - A right is either perfect or imperfect.
-            : see `^^Schneewind.+1998.+The invention of autonomy` @ bibliography.brec : p. 78 n.
+            : see `^*Schneewind.+1998.+The invention of autonomy` @ bibliography.brec : p. 78 n.
               Schneewind traces this type of distinction back in time from Grotius ultimately to Aquinas.
         - Hindering the exercise of a perfect right is a violation of that right and a forfeiture
           of the violator’s rights insofar as necessary to forestall any further violation.
@@ -54,7 +54,7 @@ Rights
                 principle: An unjustifiable end weighs nothing in the balance against duty.
 
         + Quote or otherwise refer (for comparison) to the definition(s) of Grotius and/or Pufendorf.
-            : see `^^Schneewind.+1998.+The invention of autonomy` @ bibliography.brec : pp. 79-80, 131-4
+            : see `^*Schneewind.+1998.+The invention of autonomy` @ bibliography.brec : pp. 79-80, 131-4
 
     motivation: reason to uphold and respect these rights
         - If a norm is upheld and established in society well enough to be widely relied on,
@@ -70,8 +70,8 @@ Rights
                 : see `so answering the question.$` : below
             - Nature has equipped us to carry on and continues to urge that we do.
             - Duty enjoins it, as does practical reason.
-                : re `Duty enjoins it`         see `^^H\..+of humankind extant` @ moral_uncertainty.brec
-                : re `as does practical reason` see `^^H\..+of humankind extant` @
+                : re `Duty enjoins it`         see `^*H\..+of humankind extant` @ moral_uncertainty.brec
+                : re `as does practical reason` see `^*H\..+of humankind extant` @
                   axiologic_uncertainty.brec
             - Societal support for it would help to bridge the gap between what nature has bestowed
               and the cosmos at large promises.
@@ -86,13 +86,13 @@ Rights
                         : see e.g. ../method.brec
                         : private
                     ! Yet the wayic engineer wants *this* answer in particular.
-                        : see e.g. `^^motive, file$` @ ~/work/way/wayic/working_notes.brec
+                        : see e.g. `^*motive, file$` @ ~/work/way/wayic/working_notes.brec
                         : private
             - That supporting bridge can be built by upholding these rights and establishing the right
               of ends justification in modern democracies on a par with the others.
         b) Why expect that a right of ends justification could be established in modern democracies?
             + Claim widespread, unmet demand in society for ends justification.
-                : e.g. `^^- There exists in society widespread, unmet demand` @ ../wayic/premise.brec
+                : e.g. `^*- There exists in society widespread, unmet demand` @ ../wayic/premise.brec
                 - Here I might cite my own experience (or simply affirm) that asking for a person’s goal
                   in a particular context (where do you see this taking you? to what end?) generally
                   meets with interest and a sincere desire to answer, evincing a basic need.
@@ -110,7 +110,7 @@ Rights
     ────────────────────
      ends justification
     ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-        : cf. @ `^^ entailment by duty$` @ precarious_conditions.brec
+        : cf. @ `^+entailment by duty$` @ precarious_conditions.brec
 
             right: (perfect) To justify one’s ends.
 
@@ -123,7 +123,7 @@ Rights
     ───────────────────
      freedom of action
     ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-        : cf. @ `^^ entailment by duty$` @ precarious_conditions.brec
+        : cf. @ `^+entailment by duty$` @ precarious_conditions.brec
 
             right: (imperfect) Freedom of action where it is inherently vulnerable
               to reciprocal interference.
@@ -133,7 +133,7 @@ Rights
             - Where both uses are justifiable, the present ethic gives no guidance
               on how such interference might be resolved.
                 : re `justifiable` see `hindrance beyond what is necessary to.+a justifiable end` @
-                  `^^perfect and imperfect rights$`
+                  `^*perfect and imperfect rights$`
             - So here the right is imperfect.
         - But not all types of action are predisposed to mutual interference.
         - For the non-interfering types, the right of freedom is perfect.
@@ -144,13 +144,13 @@ Rights
         - Examples include freedom of expression and freedom of assembly.
         - Division of the right of freedom into perfect and imperfect halves is necessary
           for sake of a clear and coherent formulation.
-            : see `^^principle: Where the scope of duty falls short of.+a clear.+coherent.+formulation`
+            : see `^*principle: Where the scope of duty falls short of.+a clear.+coherent.+formulation`
 
 
     ───────────────────
      personal security
     ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-        : cf. @ `^^ entailment by duty$` @ precarious_conditions.brec
+        : cf. @ `^+entailment by duty$` @ precarious_conditions.brec
 
             right: (perfect) The security of one’s person.
 

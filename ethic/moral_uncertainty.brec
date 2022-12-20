@@ -5,7 +5,7 @@ Moral uncertainty: the ground of right
     - Aware of this moral dissensus, I am in a state of moral uncertainty.
     - I have reason to suspect that without my knowledge one or more norms are morally binding on me.
     - Therefore I am duty bound to make a best effort at learning what those norms are.
-        : cf. `^^- Having no knowledge.+\R.+I am rationally bound to go in search of that knowledge` @
+        : cf. `^*- Having no knowledge.+\R.+I am rationally bound to go in search of that knowledge` @
           axiologic_uncertainty.brec : Another instance of a binding default norm triggered
           by one’s awareness of normative ignorance.
 
@@ -13,16 +13,16 @@ Moral uncertainty: the ground of right
           one is morally bound to seek knowledge of that norm and whether indeed it binds.
 
         + Consider adding comparative references.
-            : see `^^Schneewind.+1998.+The invention of autonomy` @ bibliography.brec : p. 217.2.
+            : see `^*Schneewind.+1998.+The invention of autonomy` @ bibliography.brec : p. 217.2.
               Spinoza claims that moral norms are artifacts of our ignorance, our incompleteness.
-            : see `^^Schneewind.+1998.+The invention of autonomy` @ bibliography.brec : p. 398.1.
+            : see `^*Schneewind.+1998.+The invention of autonomy` @ bibliography.brec : p. 398.1.
               Reid relies on an axiom that enjoins discovery of one’s duty.
     - On this principle, I must take M as my end.
 
         M. Knowledge of what norms morally bind one.
 
-        : re `On this principle` N.B. `^^no rational ground for morality and moral certainty$` @
-          `^^ Notes?$`
+        : re `On this principle` N.B. `^*no rational ground for morality and moral certainty$` @
+          `^+Notes?$`
         + Explain what knowledge here consists in.
             : cf. @ axiologic_uncertainty.brec
             • acquaintenance
@@ -40,12 +40,12 @@ Moral uncertainty: the ground of right
         + Clarify (at least in a comment) that the premise of M alone, or any bounden end at all,
           suffices to infer the rights with which the ethic concludes.
     - Only a stable consensus can validate knowledge on a topic that lies open to controversy.
-        : re `open to controversy` see `^^\+ Claim the fact of moral dissensus`
+        : re `open to controversy` see `^*\+ Claim the fact of moral dissensus`
 
         C. A stable consensus on what norms morally bind one.
 
         + Warrant this claim.
-            : cf. @ `^^- Only.+consensus can validate` @ axiologic_uncertainty.brec
+            : cf. @ `^*- Only.+consensus can validate` @ axiologic_uncertainty.brec
             - Warrant by principle and/or argument.
         - C refers exclusively to norms not premised on moral uncertainty.
             / A consensus on the present ethic, for example, would not suffice.
@@ -59,7 +59,7 @@ Moral uncertainty: the ground of right
           as it is necessary to all knowledge.
             ∵ Knowledge is justified belief, which means it originates
               ‘in sources we have *good reason* to consider reliable’.
-                : see `^^Steup.+and.+Neta.+2005.+Epistemology` @ bibliography.brec : italics added
+                : see `^*Steup.+and.+Neta.+2005.+Epistemology` @ bibliography.brec : italics added
     - In binding me to an end (M) that is necessarily collective (C), duty has bound me
       to the interim maintenance (H) of the collective itself.
     - Short of M, no alternative exists within moral bounds.
@@ -69,7 +69,7 @@ Moral uncertainty: the ground of right
         - Nothing in the principle that warrants M entitles me (in a state of moral uncertainty)
           to presuppose what an unknown norm consists in, or to whom (or what) it is owed,
           and then excuse myself from duty’s entailments on that basis.
-            : re `principle that warrants M` see `^^principle: Having reason to suspect.+one is.+bound`
+            : re `principle that warrants M` see `^*principle: Having reason to suspect.+one is.+bound`
         - The unknown norm *itself* might well entail a concern for what lies beyond the span of my life.
     ∴ I must take M as my end, and with it C and H.
 
@@ -80,15 +80,15 @@ Moral uncertainty: the ground of right
         no rational ground for morality and moral certainty
             - Note that while moral certainty (M) is here given a moral ground,
               nowhere does the present ethic give it a rational one.
-                : re `moral ground` see `^^principle: Having reason to suspect.+one is morally bound`
-                : re `rational one` e.g. `^^principle: Reason in its practical use requires` @
+                : re `moral ground` see `^*principle: Having reason to suspect.+one is morally bound`
+                : re `rational one` e.g. `^*principle: Reason in its practical use requires` @
                   axiologic_uncertainty.brec
             - How morality and moral certainty are to be rationally justified is left unanswered
               in the present ethic.  A clear connection to practical reason (and motivation)
               enters only with the entailment of H, which, in virtue of its namesake,
               is rationally grounded through to the point of axiologic certainty (W).
-                : re `H`            see `^^H\..+of humankind extant through C to M`
-                : re `its namesake` see `^^H\..+of humankind extant through C to W` @
+                : re `H`            see `^*H\..+of humankind extant through C to M`
+                : re `its namesake` see `^*H\..+of humankind extant through C to W` @
                   axiologic_uncertainty.brec
 
 

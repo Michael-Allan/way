@@ -25,7 +25,7 @@ Axiologic uncertainty: the ground of motivation
           of the end that serves as ground.
     - Having no knowledge of any X — cognizant of nothing that would qualify, no absolute good —
       I am rationally bound to go in search of that knowledge.  I must take W as my end.
-        : cf. `^^- Therefore.+bound to.+a best effort at learning what those norms are` @
+        : cf. `^*- Therefore.+bound to.+a best effort at learning what those norms are` @
           moral_uncertainty.brec : Another instance of a binding default norm
           triggered by one’s awareness of normative ignorance.
     - W is knowledge of what is commonly called ‘the purpose of life’ or ‘the meaning of life’.
@@ -39,14 +39,14 @@ Axiologic uncertainty: the ground of motivation
         - It rests on two physical facts — the limit of light speed and the vastness of space —
           and three inferences, as follows.
             ⁃ The limit of light speed turns distance into a formidable barrier.
-                : see `^^a formidable barrier$` @ ../diaspora/premise.brec
+                : see `^*a formidable barrier$` @ ../diaspora/premise.brec
             ⁃ Existential hazards are confined by the barrier.
                 : re `hazards.+barrier` see head @ ../diaspora/premise.brec
             ⁃ We are not confined.
-                : see `^^we are not confined$` @ ../diaspora/premise.brec
+                : see `^*we are not confined$` @ ../diaspora/premise.brec
         + Tell how *nowadays* I take it to express a covenant in terms of the search.
-                : re `nowadays` cf. `^^- Many years ago, I had a thought`
-                : re `nowadays` see `^^- I.+have come to understand it`
+                : re `nowadays` cf. `^*- Many years ago, I had a thought`
+                : re `nowadays` see `^*- I.+have come to understand it`
             ' If you have what it takes to reach me and do not discover what you seek along the way,
               then I will give you time and space unbounded in which to carry on until you do.
 
@@ -67,7 +67,7 @@ Axiologic uncertainty: the ground of motivation
         C. A stable consensus on an absolute good.
 
         + Warrant this claim.
-            : see @ `^^- Only.+consensus can validate` @ moral_uncertainty.brec
+            : see @ `^*- Only.+consensus can validate` @ moral_uncertainty.brec
     - A stable consensus requires a sustained quorum.
 
         H. The rational macrocommunity of humankind extant through C to W.
@@ -76,7 +76,7 @@ Axiologic uncertainty: the ground of motivation
             : see @ moral_uncertainty.brec
         - The macrocommunity must be rational because reason is necessary to W,
           as it is necessary to all  knowledge.
-            : join `^^- The macrocommunity must be rational` @ moral_uncertainty.brec
+            : join `^*- The macrocommunity must be rational` @ moral_uncertainty.brec
     - In binding me to an end (W) that is necessarily collective (C), reason has bound me
       to the interim maintenance (H) of the collective itself.
     - Short of W, no alternative exists within the bounds of reason.
