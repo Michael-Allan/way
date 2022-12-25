@@ -34,6 +34,8 @@ Way index
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
     also, command `see also`
         : re `\`(.+)\`` join same
+    anchored prefix
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
     ancestor, of a body fractum
         : see @ `^^hierarchic relata$`i @ http://reluk.ca/project/Breccia/language_definition.brec
     aside point
@@ -79,6 +81,8 @@ Way index
 
     canonical location
         : see @ http://reluk.ca/project/wayic/cast/form_of_a_waycast.brec
+    capture group
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
     carrier, term ‘comment carrier’
         : re `‘(.+)’` join same
     cast
@@ -97,6 +101,8 @@ Way index
         : see @ `^^hierarchic relata$`i @ http://reluk.ca/project/Breccia/language_definition.brec
     clause, term ‘containment clause’
         : re `‘(.+)’` join same
+    cluster group
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
     code, term ‘source code’
         : re `‘(.+)’` join same
     command directory
@@ -235,6 +241,11 @@ Way index
         : see @ http://reluk.ca/project/Breccia/parser/lexicon.brec
     granum
         : see @ http://reluk.ca/project/Breccia/parser/lexicon.brec
+    group
+        , term ‘capture group’
+            : re `‘(.+)’` join same
+        , term ‘cluster group’
+            : re `‘(.+)’` join same
 
 
 ╺━━ H ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -290,6 +301,10 @@ Way index
         : see @ http://reluk.ca/project/wayic/intercast/lexicon.brec
     intercast networking, project
         : see http://reluk.ca/project/wayic/intercast/
+    interpolation variable
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
+    interpolator, term ‘variable interpolator’
+        : re `‘(.+)’` join same
     intracast
         : see @ http://reluk.ca/project/wayic/cast/lexicon.brec
 
@@ -308,6 +323,8 @@ Way index
 
 ╺━━ L ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+    label, term ‘titling label’
+        : re `‘(.+)’` join same
     linear order
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
     location, term ‘canonical location’
@@ -409,6 +426,8 @@ Way index
         : see http://reluk.ca/project/Breccia/parser/plain/
     plain point
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    plain whitespace
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
     point
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     point descriptor
@@ -558,6 +577,8 @@ Way index
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     thread safe
         : see @ http://reluk.ca/project/Java/lexicon.brec
+    titling label
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
     typifier, term ‘parameter typifier’
         : re `‘(.+)’` join same
 
@@ -570,6 +591,10 @@ Way index
 
 ╺━━ V ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+    variable, term ‘interpolation variable’
+        : re `‘(.+)’` join same
+    variable interpolator
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
     viz.
         : see same term @ `^*·$` @ `^^referential command$`i @
           http://reluk.ca/project/Breccia/language_definition.brec
@@ -644,6 +669,8 @@ Way index
         : see @ http://reluk.ca/project/Breccia/project_installation.brec
     whitespace
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
+        , term ‘plain whitespace’
+            : re `‘(.+)’` join same
 
 
 ╺━━ X ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
