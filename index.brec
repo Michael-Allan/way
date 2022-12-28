@@ -319,6 +319,8 @@ Way index
         : re `‘(.+)’` see
     linear order
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
+    local
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
     location, term ‘canonical location’
         : re `‘(.+)’` see
 
@@ -470,6 +472,8 @@ Way index
     regular expression
         : see `^^regular-expression pattern matching$`i @
           http://reluk.ca/project/Breccia/language_definition.brec
+    remote
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
     resource indicant
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     rights
