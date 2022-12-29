@@ -57,7 +57,7 @@ Precarious conditions of rational action
                       `^+Notes?$` @ moral_uncertainty.brec
             - Such a conflict would not be open to arbitration by prudence because an unjustifiable end
               weighs nothing in the balance against duty.
-                : re `weighs nothing.+against duty` see @ `^*principle:.+unjustifiable end` @ rights.brec
+                : re `an unjustifiable end.+against duty`s see `^*principle: ${same}`i @ rights.brec
         freedom of action
             : cf. @ `^+inference of conditions$`
             - Willing the bounden ends entails, through practical reasoning and action,

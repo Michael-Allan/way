@@ -41,9 +41,9 @@ Axiologic uncertainty: the ground of motivation
             ⁃ The limit of light speed turns distance into a formidable barrier.
                 : see `^*a formidable barrier$` @ ../diaspora/premise.brec
             ⁃ Existential hazards are confined by the barrier.
-                : re `hazards.+barrier` see @ ../diaspora/premise.brec
+                : re `hazards.+barrier` see `^^${same}$`i @ ../diaspora/premise.brec
             ⁃ We are not confined.
-                : see `^*we are not confined$` @ ../diaspora/premise.brec
+                : re `^. (.+)\.$` see `^^${same}$`i @ ../diaspora/premise.brec
         + Tell how *nowadays* I take it to express a covenant in terms of the search.
                 : re `nowadays` cf. `^*- Many years ago, I had a thought`
                 : re `nowadays` see `^*- I.+have come to understand it`
