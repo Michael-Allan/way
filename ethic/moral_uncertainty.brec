@@ -3,6 +3,17 @@ Moral uncertainty: the ground of right
     + Claim the fact of moral dissensus.
         : privately see notebook:2021-10-17a,26c,27b,29a
     - Aware of this moral dissensus, I am in a state of moral uncertainty.
+        !! A mere agent-relative fact would not suffice to ground (the mutual recognition of) rights.
+            : privately re `! (.+)$` cf. `${same}$` @
+              ~/work/ethic/._/ethics/default/20_default_moral_norms.brec
+            - The ground here would have to be a belief that moral norms in fact exist and bind one.
+                : privately e.g. `^*belief: Moral norms exist and bind one.$` @
+                  ~/work/ethic/._/ethics/default/20_default_moral_norms.brec
+                - For a skeptic may believe that the cause of moral dissensus is, for instance,
+                  a mistaken belief in the reality|truth|possibility of moral norms.
+                    / As per Moore’s error theory, I believe it was.
+            - The ground here being merely a belief (an agent-relative fact) then, it would not follow
+              that others necessarily hold the same belief and thereby have the same rights as oneself.
     - I have reason to suspect that without my knowledge one or more norms are morally binding on me.
     - Therefore I am duty bound to make a best effort at learning what those norms are.
         : cf. `^*- Having no knowledge.+\R.+I am rationally bound to go in search of that knowledge` @
